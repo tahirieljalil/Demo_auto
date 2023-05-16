@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tlcharger le rapport</name>
+   <tag></tag>
+   <elementGuidId>a5f9b58d-694c-4825-bb76-aebf651317fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tableData']/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b7733e46-7796-4be9-94f9-374918be4dca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ReportingTDB/ExportCSV-report-vehicule-reglement</value>
+      <webElementGuid>bdd22c50-6a04-4480-9fce-51314921195d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn</value>
+      <webElementGuid>9c08d6fc-de0d-4a48-a1ff-c5393ad1d901</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Télécharger le rapport</value>
+      <webElementGuid>83af8864-f793-4023-99f8-0e62a8231209</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;etat&quot;)/div[@id=&quot;tableData&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 text-right&quot;]/a[@class=&quot;btn&quot;]</value>
+      <webElementGuid>d95644d4-8b4d-4608-9205-fce52ec4e8b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tableData']/div/div/a</value>
+      <webElementGuid>4b82651a-dbde-4467-9048-0f0543ef5a1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Télécharger le rapport')]</value>
+      <webElementGuid>56f23a55-7745-494d-9bca-f258980375ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='›'])[1]/following::a[1]</value>
+      <webElementGuid>15ef0c4d-e1fb-4b47-af7c-e3399c102f5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='‹'])[1]/following::a[5]</value>
+      <webElementGuid>1f160b17-9276-4ac8-a337-c43652dcffe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='www.cat.co.ma'])[1]/preceding::a[1]</value>
+      <webElementGuid>233e72c4-a674-4bb4-8b1b-f8b476c33aef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2023 All Rights Reserved.'])[1]/preceding::a[1]</value>
+      <webElementGuid>b5fede54-ea53-4727-814e-263511d51c17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Télécharger le rapport']/parent::*</value>
+      <webElementGuid>59f6f9a6-eb56-46e0-80b0-b209489e421e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ReportingTDB/ExportCSV-report-vehicule-reglement')]</value>
+      <webElementGuid>5f731b48-b0db-4d9b-b32a-6af6c95cbf26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a</value>
+      <webElementGuid>3cc5b415-2516-4c8a-b3d7-becdf9c0e9a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ReportingTDB/ExportCSV-report-vehicule-reglement' and (text() = 'Télécharger le rapport' or . = 'Télécharger le rapport')]</value>
+      <webElementGuid>d18f6933-da1c-49b0-9a66-7a70ac954aef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

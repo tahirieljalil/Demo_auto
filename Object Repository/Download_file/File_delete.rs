@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>File_delete</name>
+   <tag></tag>
+   <elementGuidId>07bddd78-7b34-4a40-bd63-46f88656c9ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='list-files-MissionFiles']/li/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-trash-alt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f7bcd062-2e7d-4512-923f-89dd0ca41f70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-trash-alt</value>
+      <webElementGuid>5b4e84a3-0507-465e-a4f7-277bf2fc432f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list-files-MissionFiles&quot;)/li[1]/i[@class=&quot;fas fa-trash-alt&quot;]</value>
+      <webElementGuid>a96edc14-7199-4193-b359-455183852578</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='list-files-MissionFiles']/li/i</value>
+      <webElementGuid>c2d2def5-1d51-492b-9d9c-36c4f00c5067</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/i</value>
+      <webElementGuid>7249c996-de57-419f-9086-3cad07c1185f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

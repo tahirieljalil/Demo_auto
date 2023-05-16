@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_La mission EVCAT.MAT.0315OM_0061 a t cr_d80825</name>
+   <tag></tag>
+   <elementGuidId>70e030df-c62a-4bba-a4aa-1b5f932853f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toast-container']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.toast-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>275081c4-4ce7-4d05-a1e4-058ea147009b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toast-title</value>
+      <webElementGuid>add47704-3162-4a6a-ae9c-008063911065</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>La mission EVCAT.MAT.0315/OM_0061 a été créée et affectée avec succès à l'expert Expert</value>
+      <webElementGuid>d0ab09d7-de8c-4531-8b96-1bd2a00afdca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toast-container&quot;)/div[@class=&quot;toast toast-success&quot;]/div[@class=&quot;toast-title&quot;]</value>
+      <webElementGuid>8e7fabd9-3834-47ad-b96a-b53b757f28d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toast-container']/div/div</value>
+      <webElementGuid>e2e9409a-3c3b-420c-a2a6-dab4f5de0745</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2023 All Rights Reserved.'])[1]/following::div[3]</value>
+      <webElementGuid>417096c7-1f49-4625-b058-10c084a387ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='www.cat.co.ma'])[1]/following::div[4]</value>
+      <webElementGuid>41eb5ff6-01b7-4be2-90e0-0708f8e91dc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>3f026d71-ed10-4165-951c-40294a980f2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;La mission EVCAT.MAT.0315/OM_0061 a été créée et affectée avec succès à l&quot; , &quot;'&quot; , &quot;expert Expert&quot;) or . = concat(&quot;La mission EVCAT.MAT.0315/OM_0061 a été créée et affectée avec succès à l&quot; , &quot;'&quot; , &quot;expert Expert&quot;))]</value>
+      <webElementGuid>59cc08dd-e38c-4c0e-a6a4-7e2301052138</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Choisissez une option</name>
+   <tag></tag>
+   <elementGuidId>cb0d6988-47e2-4b93-8544-f49acdf69e7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='div_RefEVCATId']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.select-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>97f7953b-95fd-4f53-a4e7-9c24d4ffb6fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-label</value>
+      <webElementGuid>fb3ecffb-2c08-46dd-9062-3e1cc166477a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choisissez une option...</value>
+      <webElementGuid>3ebfabad-995f-4487-b12c-75d032702207</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;div_RefEVCATId&quot;)/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes deselect&quot;]/div[@class=&quot;select-label&quot;]</value>
+      <webElementGuid>ddda159c-7f00-4645-b882-1d66cf140f2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div_RefEVCATId']/div/div/div</value>
+      <webElementGuid>5787137a-3539-498c-9541-2e5c38a1d081</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Référence de l', &quot;'&quot;, 'EVCAT')])[1]/following::div[3]</value>
+      <webElementGuid>c3387e20-9254-4a8c-9239-5a07a102497b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtre de recherche'])[1]/following::div[7]</value>
+      <webElementGuid>5e92b3d9-6248-4b0c-879b-6d8891d83841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='D.EVCAT15032022'])[2]/preceding::div[2]</value>
+      <webElementGuid>7dd9d2b1-cf4a-49c7-b1dd-7b32b9c78421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div/div/div/div</value>
+      <webElementGuid>b7cb2a8f-2040-43f5-a88a-c8a67f252a07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Choisissez une option...' or . = 'Choisissez une option...')]</value>
+      <webElementGuid>da252539-9f1f-4546-88bf-5137c78112ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

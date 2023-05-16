@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AGADIR</name>
+   <tag></tag>
+   <elementGuidId>ff1ddcff-9496-4d3f-be28-40269260d469</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='div-spec']/div[4]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#div-spec > div.row.mb-3 > div.col-sm-6 > div.box > div.tail-select.no-classes > div.select-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>939a7657-350c-42d6-8f83-f2d7af027dec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-label</value>
+      <webElementGuid>fb664169-ee44-4720-9f11-9d8ae45e693e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AGADIR</value>
+      <webElementGuid>f6295d74-1afe-4e7f-893a-4bc5026e3142</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;div-spec&quot;)/div[@class=&quot;row mb-3&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes&quot;]/div[@class=&quot;select-label&quot;]</value>
+      <webElementGuid>fe72de3f-f9b6-46bc-a048-1c1449b08d9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div-spec']/div[4]/div/div/div/div</value>
+      <webElementGuid>63343a3c-06df-435d-8790-1339a3f41982</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::div[3]</value>
+      <webElementGuid>4cb2d5f4-24dc-4c48-b8fd-8ac05f45a261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AGADIR'])[3]/preceding::div[2]</value>
+      <webElementGuid>a5e663fa-d414-4cad-9cc1-c6265807d4c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div</value>
+      <webElementGuid>42068759-7dc2-4130-99cc-fc4ca83d75bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AGADIR' or . = 'AGADIR')]</value>
+      <webElementGuid>4fb317e1-ceaf-4d53-a6c9-6279dcc5abcd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

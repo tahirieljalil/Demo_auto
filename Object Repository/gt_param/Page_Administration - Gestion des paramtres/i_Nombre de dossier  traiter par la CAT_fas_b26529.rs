@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Nombre de dossier  traiter par la CAT_fas_b26529</name>
+   <tag></tag>
+   <elementGuidId>0d24616a-2d1e-49bb-bb42-1cc2e01aa197</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='53a60264-c431-4b51-bc8e-dfabc1c80e42']/div[2]/div[3]/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#53a60264-c431-4b51-bc8e-dfabc1c80e42 > div.row > div.col-sm-1.mb-3 > button.nestedBlock.btn > i.fas.fa-trash</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8cb52716-5508-40a0-b8e6-4f4dba4c7d4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-trash</value>
+      <webElementGuid>1eb92b7d-06b2-41d2-8b76-c0cba029cfe5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;53a60264-c431-4b51-bc8e-dfabc1c80e42&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-1 mb-3&quot;]/button[@class=&quot;nestedBlock btn&quot;]/i[@class=&quot;fas fa-trash&quot;]</value>
+      <webElementGuid>4d446790-d24b-4872-ae8e-9dc50c1f6613</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='53a60264-c431-4b51-bc8e-dfabc1c80e42']/div[2]/div[3]/button/i</value>
+      <webElementGuid>149b6b2f-7d21-4f48-9e4a-0abbe08435de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[3]/button/i</value>
+      <webElementGuid>713ed6c4-3eba-4d62-8780-5f5cdf66a085</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

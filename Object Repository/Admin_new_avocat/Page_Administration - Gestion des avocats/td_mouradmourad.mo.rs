@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_mouradmourad.mo</name>
+   <tag></tag>
+   <elementGuidId>e305aa83-9a8a-4137-8c3d-c452c7d114a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tableEvenements']/table/tbody/tr/td[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(8)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>98096113-b8dc-4e9c-90e8-6d9e4b675c31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-title</name>
+      <type>Main</type>
+      <value>Adresse mail</value>
+      <webElementGuid>612d149d-27e6-4e57-8690-bddeb8f0ff2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>mourad@mourad.mo</value>
+      <webElementGuid>bceebb87-35ec-49a8-8a25-47cdcdc99442</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tableEvenements&quot;)/table[@class=&quot;omn-table table table-condensed table-body-center actions&quot;]/tbody[1]/tr[1]/td[8]</value>
+      <webElementGuid>b4df9c6e-8368-469a-8a6d-8107c02584d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tableEvenements']/table/tbody/tr/td[8]</value>
+      <webElementGuid>f81feff3-a6a3-40c0-8426-1fa4ebc8213c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AGADIR'])[1]/following::td[2]</value>
+      <webElementGuid>aa7d210c-ae1a-4a5f-9d3e-985af52789ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XXX'])[1]/following::td[3]</value>
+      <webElementGuid>14cfa1e0-1b3a-4d24-828a-6aa99024cd15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activé'])[1]/preceding::td[1]</value>
+      <webElementGuid>718f7564-eb77-463b-90f3-4cb9fed21bc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='mourad@mourad.mo']/parent::*</value>
+      <webElementGuid>7bf92b0e-85fb-483f-b615-4ed7dcc8a0ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]</value>
+      <webElementGuid>a694539b-a81f-4b5e-8fd5-debb09b39b7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'mourad@mourad.mo' or . = 'mourad@mourad.mo')]</value>
+      <webElementGuid>0f237753-f96a-43c9-a87f-a2e04d294e7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

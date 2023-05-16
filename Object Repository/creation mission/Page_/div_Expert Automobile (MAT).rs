@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Expert Automobile (MAT)</name>
+   <tag></tag>
+   <elementGuidId>1bce194c-cec7-4df2-beba-68796718b2b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ListSpecialite']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ListSpecialite > div.tail-select.no-classes.deselect > div.select-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ca0cd5ca-1cbd-4cf9-9ed1-46b568d960f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-label</value>
+      <webElementGuid>6367783c-0db4-4369-93b5-2c628ffcbce5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Expert Automobile (MAT)</value>
+      <webElementGuid>bfe37110-9ba5-47b8-9eb0-9ab70f695276</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ListSpecialite&quot;)/div[@class=&quot;tail-select no-classes deselect&quot;]/div[@class=&quot;select-label&quot;]</value>
+      <webElementGuid>a52ee9a9-f110-4621-8408-4eadb4f01d36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ListSpecialite']/div/div</value>
+      <webElementGuid>7acf5e51-a1e0-42de-a2aa-2d0c4dcb7035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Spécialité de l', &quot;'&quot;, 'expert')])[1]/following::div[3]</value>
+      <webElementGuid>7293aad8-273d-44c2-93ea-65fe7e6e6d2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[5]</value>
+      <webElementGuid>c73a6d93-2b6c-482b-bac6-26ba9fd9e450</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expert Automobile (MAT)'])[3]/preceding::div[1]</value>
+      <webElementGuid>8478f02d-5e4e-4dbc-9dae-6c37440ea4fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div/div</value>
+      <webElementGuid>714e528d-5c43-4095-86a1-7fa51513e17e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Expert Automobile (MAT)' or . = 'Expert Automobile (MAT)')]</value>
+      <webElementGuid>a4ec927f-c6e0-433b-998b-32b5a1bfc0b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

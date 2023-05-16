@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Annule</name>
+   <tag></tag>
+   <elementGuidId>a2ed7a30-9f1c-4ac7-8c4e-261bda0c486e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='suivieMissionForm']/div[2]/div[4]/table/tbody/tr[2]/td[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(2) > td:nth-of-type(5)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>1720848f-ae0c-4e88-b5aa-16aeadd764af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-title</name>
+      <type>Main</type>
+      <value>Statut du rapport </value>
+      <webElementGuid>64baed9a-b958-4fd5-8bab-8085fe1a4da3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Annulée</value>
+      <webElementGuid>f05b2bdb-2fe8-4a62-adb4-ac411d26fbc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;suivieMissionForm&quot;)/div[@class=&quot;row suivieMissionTable&quot;]/div[@class=&quot;col-lg-12 responsive-table-line custom-table-css&quot;]/table[@class=&quot;omn-table table table-condensed table-body-center&quot;]/tbody[1]/tr[2]/td[5]</value>
+      <webElementGuid>2e43c2e9-5eb3-430a-923f-408324ccbd71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='suivieMissionForm']/div[2]/div[4]/table/tbody/tr[2]/td[5]</value>
+      <webElementGuid>157b4725-4f37-4229-983f-0051117f0c6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expert Automobile'])[4]/following::td[1]</value>
+      <webElementGuid>28330a0c-df08-4398-b0fe-df48fc6f022a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expert auto'])[2]/following::td[2]</value>
+      <webElementGuid>87f5c7f4-8716-4e33-8fea-47a20d92b8d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test-1304/DC1_MAT/91/DM1'])[3]/preceding::td[3]</value>
+      <webElementGuid>f71b9f0b-10a2-4ea3-95ba-50cff3c065b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EVCAT.TPE.0305/OM_0016'])[4]/preceding::td[4]</value>
+      <webElementGuid>29fd5379-81ec-4c4b-8b17-390ec59dcf25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Annulée']/parent::*</value>
+      <webElementGuid>6f280ad3-e7f2-42ad-8c12-84fb81f4d93c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[5]</value>
+      <webElementGuid>d7c6778d-92a2-448f-a316-efdef62ca948</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Annulée' or . = 'Annulée')]</value>
+      <webElementGuid>f611af35-7f36-41d7-b0c4-e78968aa60ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

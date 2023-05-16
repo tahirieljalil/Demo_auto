@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_11052023</name>
+   <tag></tag>
+   <elementGuidId>9f880baf-10af-452f-a9a4-b94d36246620</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='MissionForm']/div/div[5]/table/tbody/tr/td[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(7)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>2f04d882-6660-4005-9a58-6a77f8321184</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-title</name>
+      <type>Main</type>
+      <value>Date d</value>
+      <webElementGuid>86b2f37e-cc1c-407c-9120-2d6e6de65a2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>11/05/2023</value>
+      <webElementGuid>6046746e-4e1b-478a-8d59-53241f4c31f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MissionForm&quot;)/div[@class=&quot;row MissionTable&quot;]/div[@class=&quot;col-lg-12 responsive-table-line custom-table-css&quot;]/table[@class=&quot;omn-table table table-condensed table-body-center actions&quot;]/tbody[1]/tr[1]/td[7]</value>
+      <webElementGuid>26936292-ccd8-4162-94d9-6a08f4b439af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='MissionForm']/div/div[5]/table/tbody/tr/td[7]</value>
+      <webElementGuid>58dc3c74-3ae7-4fda-a830-6c7002cc911c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expert Automobile'])[1]/following::td[1]</value>
+      <webElementGuid>ab7dc1d7-1f21-452a-a2f3-ccfba3105e48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expert auto'])[1]/following::td[2]</value>
+      <webElementGuid>c62bee4e-25b2-45ad-86ec-22a8c1556760</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='www.cat.co.ma'])[1]/preceding::td[2]</value>
+      <webElementGuid>f2b3e512-a585-48a4-b155-ff43d0e44ba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='11/05/2023']/parent::*</value>
+      <webElementGuid>4aeb7272-ce00-4e60-b24f-e148bf574f3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]</value>
+      <webElementGuid>b2e08217-6aeb-4e55-a55e-913e88a4fce5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '11/05/2023' or . = '11/05/2023')]</value>
+      <webElementGuid>c8ba5638-5632-4ec6-98c3-06cc27ea15e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

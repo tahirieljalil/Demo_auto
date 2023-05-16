@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bouton_upload</name>
+   <tag></tag>
+   <elementGuidId>49a6d21a-6fcd-4c7d-a127-b8008dae241a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;PieceJointeDiv&quot;]/div/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.multi-Upload</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>4734c592-d3da-4d32-a984-5a9eb96ccf90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multi-Upload</value>
+      <webElementGuid>5f02a320-8d98-435e-8c5d-10feec242168</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Parcourir </value>
+      <webElementGuid>13345a19-3217-4338-a673-b54496fd3d47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PieceJointeDiv&quot;)/div[@class=&quot;PieceJointe-form&quot;]/div[@class=&quot;row mb-3&quot;]/div[@class=&quot;col-sm-12&quot;]/label[@class=&quot;multi-Upload&quot;]</value>
+      <webElementGuid>08526e6f-a1f3-49d2-bf4e-0c341b9b4d90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PieceJointeDiv']/div/div/div/label</value>
+      <webElementGuid>11565585-b9f5-4d75-b465-42ed5bf2adf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pièces jointes :'])[1]/following::label[1]</value>
+      <webElementGuid>3b5fe732-6d0d-4275-b6ac-c192961d762e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOUACEUR'])[2]/following::label[1]</value>
+      <webElementGuid>33ce7402-ce8b-437d-babb-25584db6d21b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Les fichiers selectionnés'])[1]/preceding::label[1]</value>
+      <webElementGuid>1303d59e-b7fb-4944-a8aa-e38e1f44c6dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Créer'])[1]/preceding::label[1]</value>
+      <webElementGuid>0a80f6c1-2288-4ead-95c7-827aa2952806</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Parcourir']/parent::*</value>
+      <webElementGuid>e95eb7d2-42c2-49ca-880e-a94677087ff9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/label</value>
+      <webElementGuid>064525c3-fd35-4c4c-9c63-55dcc361bb6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '  Parcourir ' or . = '  Parcourir ')]</value>
+      <webElementGuid>278d7038-e6b9-4e84-84bf-f79814f3d5c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

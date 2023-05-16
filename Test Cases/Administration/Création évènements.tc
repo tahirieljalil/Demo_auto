@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Gestion des évènements | Création</description>
+   <name>Création évènements</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5001676-c91c-4f6b-9821-946a527ea75d</testCaseGuid>
+</TestCaseEntity>

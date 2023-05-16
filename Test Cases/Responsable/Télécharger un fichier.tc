@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Télécharger un fichier</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0fe6b2b9-b85b-4a23-bc91-53e368459f65</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3add2d4b-f924-410d-811c-d636a38c5995</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\atahiri\\\\Downloads\\\\Test plate forme.pdf'</defaultValue>
+      <description></description>
+      <id>3add2d4b-f924-410d-811c-d636a38c5995</id>
+      <masked>false</masked>
+      <name>File</name>
+   </variable>
+</TestCaseEntity>

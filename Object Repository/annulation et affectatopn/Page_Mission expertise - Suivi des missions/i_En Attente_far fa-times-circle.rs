@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_En Attente_far fa-times-circle</name>
+   <tag></tag>
+   <elementGuidId>d83d79ad-1bab-42d5-bf8a-4cc7d30536ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='suivieMissionForm']/div[2]/div[4]/table/tbody/tr[2]/td[7]/a[3]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(2) > td.text-center > a[title=&quot;Annuler Mission&quot;] > i.far.fa-times-circle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f3a82532-a8eb-40b6-9e8c-93e4a02f6a7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>far fa-times-circle</value>
+      <webElementGuid>ab652235-e69a-4e12-8553-450176123d29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>bad500fa-ff02-4d28-97a1-83744676f1e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;suivieMissionForm&quot;)/div[@class=&quot;row suivieMissionTable&quot;]/div[@class=&quot;col-lg-12 responsive-table-line custom-table-css&quot;]/table[@class=&quot;omn-table table table-condensed table-body-center&quot;]/tbody[1]/tr[2]/td[@class=&quot;text-center&quot;]/a[3]/i[@class=&quot;far fa-times-circle&quot;]</value>
+      <webElementGuid>13861a0e-ec40-4004-9c80-a962df90cd43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='suivieMissionForm']/div[2]/div[4]/table/tbody/tr[2]/td[7]/a[3]/i</value>
+      <webElementGuid>7cc771c1-43b5-468d-8a9d-d1bb9d5f3c87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[7]/a[3]/i</value>
+      <webElementGuid>389b6ae6-50e4-48f3-971e-00dc89211688</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FanCat_Filtre</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>576b5c36-6d2e-4793-9661-9947cb732444</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>73eae3fe-2876-4c4f-8032-f450e41dcf36</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>73eae3fe-2876-4c4f-8032-f450e41dcf36</id>
+      <masked>false</masked>
+      <name>Text_Fil</name>
+   </variable>
+</TestCaseEntity>

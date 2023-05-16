@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Nombre de dossier  traiter par la CA_4fff04</name>
+   <tag></tag>
+   <elementGuidId>5a3e504c-5895-4c37-871c-90ac5d561c2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@value='b2ed360c-ffa6-4a94-ad63-01bf78bcbecf']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.nestedBlock.btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ef0a4807-240e-43c2-a458-62b8e6c1d397</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1c7dc387-bce2-47f2-88d1-6a547426dc10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nestedBlock btn</value>
+      <webElementGuid>3bd03fa7-2c99-4062-a77d-ed1feff88b9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>b2ed360c-ffa6-4a94-ad63-01bf78bcbecf</value>
+      <webElementGuid>4ebd271c-55ee-407b-899c-915fbfbac1a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b2ed360c-ffa6-4a94-ad63-01bf78bcbecf&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-1 mb-3&quot;]/button[@class=&quot;nestedBlock btn&quot;]</value>
+      <webElementGuid>f9add3f3-973a-47ea-b2d5-865466c7a9a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@value='b2ed360c-ffa6-4a94-ad63-01bf78bcbecf']</value>
+      <webElementGuid>3025b637-d7fc-4b45-901c-f086d47ce4f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b2ed360c-ffa6-4a94-ad63-01bf78bcbecf']/div[2]/div[3]/button</value>
+      <webElementGuid>120f7f60-a631-4868-8663-d027a6463298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombre de dossier à traiter par la CAT'])[2]/following::button[1]</value>
+      <webElementGuid>a4363827-37d8-4aff-97c7-169f29edc776</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Procédure judiciaire'])[4]/following::button[1]</value>
+      <webElementGuid>0cf9464b-4f45-4537-9956-569045771daf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enregistrer'])[1]/preceding::button[1]</value>
+      <webElementGuid>88b262dd-0c38-4181-b130-79c2f517ef42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajouter'])[1]/preceding::button[2]</value>
+      <webElementGuid>75f3d900-7a0c-4973-9784-1f62d2551fc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>960dcc8d-b9e7-4176-8307-3b0c275001f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>6d7af5a7-883b-45dd-ae31-24dbaefe1a83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

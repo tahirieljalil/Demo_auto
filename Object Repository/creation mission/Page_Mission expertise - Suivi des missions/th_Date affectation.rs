@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Date affectation</name>
+   <tag></tag>
+   <elementGuidId>6312b2cd-93aa-40f9-8944-a8e3391590c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='suivieMissionForm']/div[2]/div[4]/table/thead/tr/th[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th:nth-of-type(6)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>c7f62579-2994-4a4d-a15e-dd5e0cb2422e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Date affectation</value>
+      <webElementGuid>3c63e13d-e03e-4527-b89d-ae22866ed182</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;suivieMissionForm&quot;)/div[@class=&quot;row suivieMissionTable&quot;]/div[@class=&quot;col-lg-12 responsive-table-line custom-table-css&quot;]/table[@class=&quot;omn-table table table-condensed table-body-center&quot;]/thead[1]/tr[@class=&quot;niveau1&quot;]/th[6]</value>
+      <webElementGuid>c7c6f46f-cbd8-4edc-bbbe-a8f80828290f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='suivieMissionForm']/div[2]/div[4]/table/thead/tr/th[6]</value>
+      <webElementGuid>2a560692-782e-42ad-98b9-8c1ce5c0f651</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Statut du rapport'])[1]/following::th[1]</value>
+      <webElementGuid>4111aa5a-b23c-4a5c-a767-5d338a3a5da8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Spécialité de l', &quot;'&quot;, 'expert')])[1]/following::th[2]</value>
+      <webElementGuid>9e3c54bc-b24c-4434-87c1-f5ffb6a55a27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/preceding::th[1]</value>
+      <webElementGuid>b70f5ef3-203b-4714-b358-33230c0bfe40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test-1304/DC1_MAT/91/DM1'])[3]/preceding::th[2]</value>
+      <webElementGuid>143204ca-31a1-4c83-a5e1-ec77f44d576a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[6]</value>
+      <webElementGuid>f5cdfbef-4f5f-4d25-a4a5-88f2c459d259</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Date affectation' or . = 'Date affectation')]</value>
+      <webElementGuid>36a17994-4e42-409d-b5e7-0fcf38f892dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
