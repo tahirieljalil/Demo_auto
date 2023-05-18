@@ -23,53 +23,113 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://catback.eastus.cloudapp.azure.com/Identity/Account/Login?ReturnUrl=%2F')
 
-WebUI.setText(findTestObject('Object Repository/evenements/Page_CAT - Authentification/input_Connexion_Input.Login'), 'cat@cat.ma')
+WebUI.setText(findTestObject('Object Repository/Page_CAT - Authentification/input_Connexion_Input.Login (1)'), 'cat@cat.ma')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/evenements/Page_CAT - Authentification/input_Connexion_Input.Password'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_CAT - Authentification/input_Connexion_Input.Password (1)'), 
     'R7+G68P4LMrw4PaWyLZvYQ==')
 
-WebUI.click(findTestObject('Object Repository/evenements/Page_CAT - Authentification/button_Connexion'))
+WebUI.click(findTestObject('Object Repository/Page_CAT - Authentification/button_Connexion (1)'))
 
-WebUI.click(findTestObject('Object Repository/evenements/Page_Plateforme de gestion des sinistres li_05fe44/a_Administration'))
+WebUI.click(findTestObject('Object Repository/Page_Plateforme de gestion des sinistres li_05fe44/a_Gestion des dossiers sinistres'))
 
-WebUI.click(findTestObject('Object Repository/evenements/Page_Plateforme de gestion des sinistres li_05fe44/a_Gestion des vnements'))
+WebUI.click(findTestObject('Object Repository/Page_Plateforme de gestion des sinistres li_05fe44/a_Ouverture des dossiers sinistres'))
 
-WebUI.click(findTestObject('Object Repository/evenements/Page_Administration - Gestion des vnements/a_Cration des vnements'))
+WebUI.click(findTestObject('Page_Gestion des dossiers sinistres/RfrenceEVCAT_Slectionner'))
 
-WebUI.setText(findTestObject('Object Repository/evenements/Page_Gestion des venements  Cration/input__Duree'), '15')
+WebUI.click(findTestObject('Object Repository/Page_Gestion des dossiers sinistres - Ouver_cd5ce2/li_Test-1304'))
 
-WebUI.setText(findTestObject('date evenment/Page_Gestion des venements  Cration/input__DateEvenement'), '12/05/2023')
+WebUI.click(findTestObject('Page_Gestion des dossiers sinistres/type_doc_Slectionner'))
 
-WebUI.click(findTestObject('Object Repository/evenements/Page_Gestion des venements  Cration/div_Slectionner'))
+WebUI.click(findTestObject('Object Repository/Page_Gestion des dossiers sinistres - Ouver_cd5ce2/li_Dclaration'))
 
-WebUI.click(findTestObject('Object Repository/evenements/Page_Gestion des venements  Cration/li_Acte de terrorisme'))
+WebUI.click(findTestObject('Object Repository/Page_Gestion des dossiers sinistres - Ouver_cd5ce2/span_Vhicule_checkmark'))
 
-WebUI.click(findTestObject('date evenment/Page_Gestion des venements  Cration/region_Slectionner'))
+WebUI.setText(findTestObject('Object Repository/Page_Gestion des dossiers sinistres - Ouver_cd5ce2/input__N_Police'), '112233')
 
-WebUI.click(findTestObject('Object Repository/evenements/Page_Gestion des venements  Cration/li_Bni Mellal-Khnifra'))
+WebUI.setText(findTestObject('Object Repository/Page_Gestion des dossiers sinistres - Ouver_cd5ce2/input__N_Attestation'), 
+    '556677')
 
-WebUI.click(findTestObject('date evenment/Page_Gestion des venements  Cration/province_Slectionner'))
+WebUI.scrollToElement(findTestObject('Page_Gestion des dossiers sinistres/Format_imm_Slectionner'), 1)
 
-WebUI.click(findTestObject('Object Repository/evenements/Page_Gestion des venements  Cration/li_Azilal'))
+WebUI.click(findTestObject('Page_Gestion des dossiers sinistres/Format_imm_Slectionner'))
 
-WebUI.scrollToElement(findTestObject('date evenment/Page_Gestion des venements  Cration/comune_Slectionner'), 1)
+WebUI.click(findTestObject('Object Repository/Page_Gestion des dossiers sinistres - Ouver_cd5ce2/li_Arabe'))
 
-WebUI.click(findTestObject('date evenment/Page_Gestion des venements  Cration/comune_Slectionner'))
+WebUI.setText(findTestObject('Object Repository/Page_Gestion des dossiers sinistres - Ouver_cd5ce2/input__N_Immatriculation'), 
+    '34232-D213')
 
-WebUI.click(findTestObject('Object Repository/evenements/Page_Gestion des venements  Cration/li_afourar'))
+WebUI.setText(findTestObject('Object Repository/Page_Gestion des dossiers sinistres - Ouver_cd5ce2/textarea__Adresse'), 
+    'TESTING ADRESS')
 
-WebUI.click(findTestObject('date evenment/Page_Gestion des venements  Cration/postal_Slectionner'))
+WebUI.sendKeys(findTestObject('les_cas_a_chocher_et_la_date/input__DateDemande'), '16/05/2023')
 
-WebUI.click(findTestObject('Object Repository/evenements/Page_Gestion des venements  Cration/li_MAR_AZI'))
+WebUI.sendKeys(findTestObject('les_cas_a_chocher_et_la_date/input__DateSinistre'), '13/05/2023')
 
-WebUI.click(findTestObject('date evenment/Page_Gestion des venements  Cration/ville_Slectionner'))
+WebUI.click(findTestObject('Object Repository/Page_Gestion des dossiers sinistres - Ouver_cd5ce2/input_Ville sinistre_checkbox'))
 
-WebUI.click(findTestObject('Object Repository/evenements/Page_Gestion des venements  Cration/li_AGADIR'))
+WebUI.click(findTestObject('Page_Gestion des dossiers sinistres/ville_a_remplir'))
 
-WebUI.click(findTestObject('Object Repository/evenements/Page_Gestion des venements  Cration/button_Enregistrer'))
+WebUI.click(findTestObject('Object Repository/Page_Gestion des dossiers sinistres - Ouver_cd5ce2/li_AGADIR'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/evenements/Page_Administration - Gestion des vnements/div_Lvnement a t cr avec succs sous la rfre_f62dbc'), 
-    FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('les_cas_a_chocher_et_la_date/input_Commune sinistre_checkbox'))
+
+WebUI.click(findTestObject('Page_Gestion des dossiers sinistres/commune_a_remplir'))
+
+WebUI.click(findTestObject('Object Repository/Page_Gestion des dossiers sinistres - Ouver_cd5ce2/li_rass oumlil'))
+
+WebUI.click(findTestObject('Object Repository/Page_Gestion des dossiers sinistres - Ouver_cd5ce2/button_Continuer'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Gestion des dossiers sinistres - Ouver_cd5ce2/input__Declarant.Nom'), 
+    1)
+
+WebUI.setText(findTestObject('Object Repository/Page_Gestion des dossiers sinistres - Ouver_cd5ce2/input__Declarant.Nom'), 
+    'MOURAD')
+
+WebUI.setText(findTestObject('Object Repository/Page_Gestion des dossiers sinistres - Ouver_cd5ce2/input__Declarant.Prenom'), 
+    'HASMIDI')
+
+WebUI.scrollToElement(findTestObject('ZZ_Page_Gestion des dossiers sinistres_ZZ/scrollTo'), 1)
+
+WebUI.click(findTestObject('Page_Gestion des dossiers sinistres_etape2/Type_document_identit'))
+
+WebUI.click(findTestObject('Object Repository/Page_Gestion des dossiers sinistres - Ouver_cd5ce2/li_CNIE'))
+
+WebUI.click(findTestObject('ZZ_Page_Gestion des dossiers sinistres_ZZ/Qualite'))
+
+WebUI.click(findTestObject('ZZ_Page_Gestion des dossiers sinistres_ZZ/li_Assur'))
+
+WebUI.click(findTestObject('Z_inter/inter'))
+
+WebUI.click(findTestObject('ZZ_Page_Gestion des dossiers sinistres_ZZ/li_A1001_NOM_inter'))
+
+/*WebUI.click(findTestObject('Object Repository/Page_Gestion des dossiers sinistres - Ouver_cd5ce2/input__Declarant.N_Type_Doc'))
+
+WebUI.click(findTestObject('Object Repository/Page_Gestion des dossiers sinistres - Ouver_cd5ce2/div_Type du document didentit              _5a9f8a'))
+*/
+'à change'
+int RN = ((Math.random() * 99) as int)
+
+WebUI.setText(findTestObject('Object Repository/Page_Gestion des dossiers sinistres - Ouver_cd5ce2/input__Declarant.N_Type_Doc'), 
+    'NZ54'+ RN + RN)
+
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Gestion des dossiers sinistres - Ouver_cd5ce2/input__Attachement.FichierDeclaration'), 
+    1)
+
+WebUI.uploadFile(findTestObject('Object Repository/Page_Gestion des dossiers sinistres - Ouver_cd5ce2/input__Attachement.FichierDeclaration'), 
+    'C:\\Users\\atahiri\\Downloads\\Test plate forme.pdf')
+
+//WebUI.uploadFile(findTedstObject('Object Repository/Page_Gestion des dossiers sinistres - Ouver_cd5ce2/input__Attachement.FichierDeclaration'), 'C:\\Users\\atahiri\\Downloads\\Test plate forme.pdf')
+WebUI.uploadFile(findTestObject('Page_Gestion des dossiers_telecharger_test/tele_Attachement.FichierDeclaration'), 'C:\\Users\\atahiri\\Downloads\\Test plate forme.pdf')
+
+WebUI.uploadFile(findTestObject('Z_inter/label_Parcourir'), 'C:\\Users\\atahiri\\Downloads\\Test plate forme.pdf')
+
+/*WebUI.setText(findTestObject('Page_Gestion des dossiers_telecharger_test/tele_Attachement.FichierDeclaration'), 'C:\\Users\\atahiri\\Downloads\\Test plate forme.pdf')
+
+WebUI.setText(findTestObject('Object Repository/Page_Gestion des dossiers sinistres - Ouver_cd5ce2/input__Attachement.FichierDeclaration'), 
+    'C:\\Users\\atahiri\\Downloads\\Test plate forme.pdf')*/
+WebUI.click(findTestObject('Page_Gestion des dossiers_telecharger_test/button_Enregistrer le brouillon'))
+
+WebUI.verifyElementPresent(findTestObject('Page_Gestion des dossiers sinistres - Ouver_cd5ce2/div_Success'), 1)
 
 WebUI.closeBrowser()
 

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//tbody[@id='tbody-table-parametre']/tr[5]/td[3]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='D.EVCAT15032022'])[3]/following::td[2]</value>
       </entry>
       <entry>
          <key>CSS</key>

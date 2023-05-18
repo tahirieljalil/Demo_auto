@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i__far fa-eye</name>
+   <tag></tag>
+   <elementGuidId>c8d8d009-356b-4b4b-b7ad-ad1adc6dda6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='perilName']/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>dfacbe42-3d73-4f63-866f-fa140ef778c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>far fa-eye </value>
+      <webElementGuid>8b3a33f2-7173-478e-aaef-cfa91773ab79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;perilName&quot;)/div[@class=&quot;rappel&quot;]/a[@class=&quot;VoirDet&quot;]/i[@class=&quot;far fa-eye&quot;]</value>
+      <webElementGuid>31767e14-fc14-4f33-9530-75e88cb3bbb3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='perilName']/div/a/i</value>
+      <webElementGuid>9f1941f2-1d32-4a0b-85e8-4cc989f125ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a/i</value>
+      <webElementGuid>10bc836c-a62a-4d66-9ce6-49c422517960</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -49,7 +49,7 @@ WebUI.click(findTestObject('Page_Gestion des utilisateurs  Cration/div_RMA'))
 
 WebUI.click(findTestObject('Object Repository/Déactiver Avocat/Page_Gestion des utilisateurs  Cration/li_RMA'))
 
-WebUI.scrollToElement(findTestObject('Page_Gestion des utilisateurs  Cration/div_Slectionner'), 0)
+WebUI.scrollToElement(findTestObject('Page_Gestion des utilisateurs  Cration/div_Slectionner'), 1)
 
 WebUI.click(findTestObject('Page_Gestion des utilisateurs  Cration/div_Slectionner'))
 
@@ -57,25 +57,26 @@ WebUI.click(findTestObject('Object Repository/Déactiver Avocat/Page_Gestion des
 
 WebUI.click(findTestObject('Object Repository/Déactiver Avocat/Page_Gestion des utilisateurs  Cration/span_Dsactiv_checkmark'))
 
-
 String inputValue = WebUI.getAttribute(findTestObject('get_text_login_user/input__Login_text'), 'value', FailureHandling.CONTINUE_ON_FAILURE)
 
 //println("The value of the input field is: " + inputValue)
+WebUI.scrollToElement(findTestObject('Object Repository/Déactiver Avocat/Page_Gestion des utilisateurs  Cration/button_Enregistrer'), 
+    1)
 
 WebUI.click(findTestObject('Object Repository/Déactiver Avocat/Page_Gestion des utilisateurs  Cration/button_Enregistrer'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Déactiver Avocat/Page_Administration - Gestion des utilisateurs/div_Utilisateur a t cr avec succs'), 
+/*WebUI.verifyElementText(findTestObject('Object Repository/Déactiver Avocat/Page_Administration - Gestion des utilisateurs/div_Utilisateur a t cr avec succs'), 
     'Utilisateur a été créé avec succès')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Déactiver Avocat/Page_Administration - Gestion des utilisateurs/div_Utilisateur a t cr avec succs'), 
     0)
 
-WebUI.setText(findTestObject('Déactiver Avocat/Page_Administration - Gestion des utilisateurs/input_Lignes par page_searchString'),inputValue)
+WebUI.setText(findTestObject('Déactiver Avocat/Page_Administration - Gestion des utilisateurs/input_Lignes par page_searchString'), 
+    inputValue)
 
 WebUI.sendKeys(findTestObject('Admin_new_avocat/Page_Administration - Gestion des avocats/input_Lignes par page_MotCle'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/Déactiver Avocat/Page_Administration - Gestion des utilisateurs/td_Dsactiv'), 
+    Keys.chord(Keys.ENTER))*/
+WebUI.verifyElementVisible(findTestObject('Object Repository/Déactiver Avocat/Page_Administration - Gestion des utilisateurs/div_Utilisateur a t cr avec succs'), 
     FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeBrowser()

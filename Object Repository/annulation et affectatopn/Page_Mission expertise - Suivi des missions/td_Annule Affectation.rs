@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//form[@id='suivieMissionForm']/div[2]/div[4]/table/tbody/tr/td[5]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Expert auto'])[1]/following::td[2]</value>
       </entry>
       <entry>
          <key>CSS</key>

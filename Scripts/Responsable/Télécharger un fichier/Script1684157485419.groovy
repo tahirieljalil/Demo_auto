@@ -39,9 +39,9 @@ WebUI.click(findTestObject('Object Repository/Mission_create/Page_/div_Slectionn
 
 WebUI.click(findTestObject('Object Repository/Mission_create/Page_/li_D.EVCAT15032022DC12_MAT82DM2'))
 
-WebUI.click(findTestObject('Page_/exp_Slectionner'))
+WebUI.click(findTestObject('Page_mission_demo/sp_Slectionner'))
 
-WebUI.click(findTestObject('Object Repository/Mission_create/Page_/li_Expert auto (EVCAT.MAT.0315)'))
+WebUI.click(findTestObject('Page_mission_demo/cree_mission_li_Expert Automobile'))
 
 WebUI.scrollToElement(findTestObject('Click_sur_consiel_expere/a_Gestion des experts Conseil'), 1)
 
@@ -56,7 +56,6 @@ WebUI.click(findTestObject('Page_/div_AGADIR'))
 WebUI.click(findTestObject('Object Repository/Mission_create/Page_/li_AIT OURIR'))
 
 //WebUI.click(findTestObject('Download_file/bouton_upload'))
-
 WebUI.uploadFile(findTestObject('Download_file/File_element'), 'C:\\Users\\atahiri\\Downloads\\Test plate forme.pdf')
 
 WebUI.click(findTestObject('Object Repository/Mission_create/Page_/button_Crer'))

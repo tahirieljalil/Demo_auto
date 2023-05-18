@@ -24,7 +24,7 @@ WebUI.maximizeWindow()
 WebUI.navigateToUrl('https://catback.eastus.cloudapp.azure.com/Identity/Account/Login?ReturnUrl=%2F')
 
 WebUI.setText(findTestObject('Object Repository/Cas de test negative/Page_CAT - Authentification/input_Connexion_Input.Login'), 
-    'cas de test negative pour detecter le message d\'erreur')
+    'Cas de test négatif pour détecter le message d\'erreur.')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Cas de test negative/Page_CAT - Authentification/input_Connexion_Input.Password'), 
     'X8tOoMZ79q0=')

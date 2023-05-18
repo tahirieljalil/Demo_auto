@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='Switch']/div/div/div/div/div[2]/div[2]/ul/li</value>
+         <value>//div[@id='Switch']/div/div/div/div/div[2]/div[2]/ul/li[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>2dae6d63-4899-4bd8-b1d9-d46f49cd2579</webElementGuid>
+      <webElementGuid>9ad6f44f-bd99-4f94-bfe6-fe234c07c9c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-option</value>
-      <webElementGuid>fcf7df48-2ad3-4a04-851e-5622eaf02755</webElementGuid>
+      <webElementGuid>55f52ef3-7cde-4394-a9ea-46f558253694</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-key</name>
       <type>Main</type>
       <value>315</value>
-      <webElementGuid>8a263f5c-a119-46a9-a4c4-51501906f5a0</webElementGuid>
+      <webElementGuid>2765b128-9c82-44eb-a1c4-2dfb9a903755</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-group</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>70fadaf7-d8f8-47f1-bcca-a9c05a2cf343</webElementGuid>
+      <webElementGuid>0f0cd369-c41a-4dca-b7d2-84c7ce347c2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Expert auto (EVCAT.MAT.0315)</value>
-      <webElementGuid>b3ab6d84-749e-443f-a105-3ab23ac2be56</webElementGuid>
+      <webElementGuid>db4b5cd0-98e6-402d-9664-da5223179172</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Switch&quot;)/div[@class=&quot;row mb-3&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes deselect active&quot;]/div[@class=&quot;select-dropdown&quot;]/div[@class=&quot;dropdown-inner&quot;]/ul[@class=&quot;dropdown-optgroup&quot;]/li[@class=&quot;dropdown-option&quot;]</value>
-      <webElementGuid>2623fa0a-b6ca-424f-838c-d621230a9109</webElementGuid>
+      <webElementGuid>37ef876f-5416-4d17-ad7c-5c2d21199288</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='Switch']/div/div/div/div/div[2]/div[2]/ul/li</value>
-      <webElementGuid>c305de5b-c052-4a32-a286-5b3bb3e274e5</webElementGuid>
+      <webElementGuid>fd76d8e1-3a3c-42e2-bdcd-bcc3c3bc057a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sélectionner ...'])[1]/following::li[1]</value>
-      <webElementGuid>248c09e7-1f6b-4a8c-a3d4-ebded1d8ae52</webElementGuid>
+      <webElementGuid>81c3d446-a901-4e6d-a0f3-4613309f8ebf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::li[1]</value>
-      <webElementGuid>c857a240-d064-4584-8f9d-3b5476003b51</webElementGuid>
+      <webElementGuid>8912276f-17a1-4417-95a9-a5876d992265</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Type d', &quot;'&quot;, 'expertise')])[1]/preceding::li[1]</value>
-      <webElementGuid>941ecd7c-89c6-466d-b36b-06a9a678dfda</webElementGuid>
+      <webElementGuid>1efa4eed-0f28-4f9d-b84b-a0b9540531c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sélectionner ...'])[2]/preceding::li[1]</value>
-      <webElementGuid>5e183d43-7f87-4d6e-a328-07f60f698604</webElementGuid>
+      <webElementGuid>ecb8d388-c680-49f9-a9cd-05d681bf4bb7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div/div/div[2]/div[2]/ul/li</value>
-      <webElementGuid>35825b00-b0a3-470d-93ab-b1d084458e17</webElementGuid>
+      <webElementGuid>90dd7601-6836-4e50-b0be-a1fc1fd67da8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'Expert auto (EVCAT.MAT.0315)' or . = 'Expert auto (EVCAT.MAT.0315)')]</value>
-      <webElementGuid>35761a81-158c-4e20-8917-80e17770d8d4</webElementGuid>
+      <webElementGuid>75e04b33-85a9-4954-bbb5-6db33155e8bc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

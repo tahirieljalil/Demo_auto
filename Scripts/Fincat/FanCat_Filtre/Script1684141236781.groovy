@@ -36,6 +36,8 @@ WebUI.click(findTestObject('Object Repository/FanCat/Page_Reporting  TDB/span_Rs
 
 WebUI.click(findTestObject('Object Repository/FanCat/Page_Reporting  TDB/input_Nombre des rsidences sinistrs_EtatByT_cd2b5f'))
 
+WebUI.scrollToElement(findTestObject('TB_report/Filtre_element_TB'), 1)
+
 WebUI.click(findTestObject('Object Repository/FanCat/Page_Reporting  TDB/div_Choisissez une option'))
 
 String actualresult = WebUI.getText(findTestObject('FanCat/Page_Reporting  TDB/li_D.EVCAT15032022'))

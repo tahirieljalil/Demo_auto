@@ -35,11 +35,14 @@ WebUI.click(findTestObject('Object Repository/Download_rappot_TDB/Page_Plateform
 
 WebUI.click(findTestObject('Object Repository/Download_rappot_TDB/Page_Reporting  TDB/span_Vhicule_checkmark'))
 
+WebUI.scrollToElement(findTestObject('Download_rappot_TDB/Page_Reporting  TDB/span_Rglement_checkmark'), 1)
+
 WebUI.click(findTestObject('Object Repository/Download_rappot_TDB/Page_Reporting  TDB/span_Rglement_checkmark'))
 
-WebUI.click(findTestObject('Object Repository/Download_rappot_TDB/Page_Reporting  TDB/a_Tlcharger le rapport'))
+WebUI.scrollToElement(findTestObject('Object Repository/Download_rappot_TDB/Page_Reporting  TDB/a_Tlcharger le rapport'), 
+    1)
 
-WebUI.scrollToElement(findTestObject('Object Repository/Download_rappot_TDB/Page_Reporting  TDB/a_Tlcharger le rapport'), 1)
+WebUI.click(findTestObject('Object Repository/Download_rappot_TDB/Page_Reporting  TDB/a_Tlcharger le rapport'))
 
 /*File DownloadFile = new File("C:\\Users\\atahiri\\Downloads")
 
@@ -54,8 +57,7 @@ if (nameOffiles.contains("Règlement_")) {
 else {
 	println "échoué"
 }*/
-
-File downloadDir = new File("C:\\Users\\atahiri\\Downloads")
+File downloadDir = new File('C:\\Users\\atahiri\\Downloads')
 
 List<String> nameOfFiles = Arrays.asList(downloadDir.list())
 
@@ -64,18 +66,18 @@ println(nameOfFiles)
 boolean fileFound = false
 
 for (String fileName : nameOfFiles) {
-	if (fileName.contains("Règlement_")) {
-		fileFound = true
-		break
-	}
+    if (fileName.contains('Règlement_')) {
+        fileFound = true
+
+        break
+    }
 }
 
 if (fileFound) {
-	println "Passé"
+    println('Passé')
 } else {
-	println "échoué"
+    assert false
 }
-
 
 WebUI.closeBrowser()
 

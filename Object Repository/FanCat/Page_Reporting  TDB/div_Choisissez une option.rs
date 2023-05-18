@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='div_RefEVCATId']/div/div/div</value>
+         <value>/html/body/div/section/div[1]/div/div/div/div/div[2]/div[1]/div[2]/div[2]/form/div[1]/div/div[1]/div[1]/div/div/div[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>97f7953b-95fd-4f53-a4e7-9c24d4ffb6fd</webElementGuid>
+      <webElementGuid>9ff5da89-a1cc-49f1-a545-d497fe4b9972</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select-label</value>
-      <webElementGuid>fb3ecffb-2c08-46dd-9062-3e1cc166477a</webElementGuid>
+      <webElementGuid>ab3524a7-80b7-4f89-a74e-a2c75909f9c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Choisissez une option...</value>
-      <webElementGuid>3ebfabad-995f-4487-b12c-75d032702207</webElementGuid>
+      <webElementGuid>d562e1d6-8dcf-4eed-b35f-3d123ff9f74b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;div_RefEVCATId&quot;)/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes deselect&quot;]/div[@class=&quot;select-label&quot;]</value>
-      <webElementGuid>ddda159c-7f00-4645-b882-1d66cf140f2d</webElementGuid>
+      <webElementGuid>415b832d-4d3c-4992-a441-b51b562e2051</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='div_RefEVCATId']/div/div/div</value>
-      <webElementGuid>5787137a-3539-498c-9541-2e5c38a1d081</webElementGuid>
+      <webElementGuid>3ade9100-f5f8-4209-a939-ee61778502f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Référence de l', &quot;'&quot;, 'EVCAT')])[1]/following::div[3]</value>
-      <webElementGuid>c3387e20-9254-4a8c-9239-5a07a102497b</webElementGuid>
+      <webElementGuid>8fccc119-41d9-4469-9a41-31c718dc4f48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtre de recherche'])[1]/following::div[7]</value>
-      <webElementGuid>5e92b3d9-6248-4b0c-879b-6d8891d83841</webElementGuid>
+      <webElementGuid>e3cbe4f0-7a76-4d0e-acef-9730ce37900c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='D.EVCAT15032022'])[2]/preceding::div[2]</value>
-      <webElementGuid>7dd9d2b1-cf4a-49c7-b1dd-7b32b9c78421</webElementGuid>
+      <webElementGuid>31763dec-3072-4db7-8c86-0651bb9f86f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div/div/div/div/div/div</value>
-      <webElementGuid>b7cb2a8f-2040-43f5-a88a-c8a67f252a07</webElementGuid>
+      <webElementGuid>f74c777f-935f-4167-86e6-bac231c8d3e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Choisissez une option...' or . = 'Choisissez une option...')]</value>
-      <webElementGuid>da252539-9f1f-4546-88bf-5137c78112ad</webElementGuid>
+      <webElementGuid>0af531e9-1958-4780-b329-e30fb1cc1d56</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

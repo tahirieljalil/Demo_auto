@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='MotCle']</value>
+         <value>//div[2]/input</value>
       </entry>
       <entry>
          <key>CSS</key>

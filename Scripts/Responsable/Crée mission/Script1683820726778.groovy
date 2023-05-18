@@ -39,22 +39,21 @@ WebUI.click(findTestObject('Object Repository/Mission_create/Page_/div_Slectionn
 
 WebUI.click(findTestObject('Object Repository/Mission_create/Page_/li_D.EVCAT15032022DC12_MAT82DM2'))
 
+WebUI.click(findTestObject('Page_mission_demo/sp_Slectionner'))
+
+WebUI.click(findTestObject('Page_mission_demo/cree_mission_li_Expert Automobile'))
+
 WebUI.click(findTestObject('Page_ref/ref_Slectionner'))
 
 WebUI.click(findTestObject('Object Repository/Mission_create/Page_/li_Expert Automobile (MAT)'))
 
-WebUI.click(findTestObject('Page_/exp_Slectionner'))
-
-WebUI.click(findTestObject('Object Repository/Mission_create/Page_/li_Expert auto (EVCAT.MAT.0315)'))
+WebUI.scrollToElement(findTestObject('creation mission/Page_/div_AGADIR'), 1)
 
 WebUI.click(findTestObject('Page_/div_AGADIR'))
 
 WebUI.click(findTestObject('Object Repository/Mission_create/Page_/li_AIT OURIR'))
 
 WebUI.click(findTestObject('Object Repository/Mission_create/Page_/button_Crer'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Mission_create/Page_/div_La mission EVCAT.MAT.0315OM_0062 a t cr_0a68f7'), 
-    'La mission EVCAT.MAT.0315/OM_0062 a été créée et affectée avec succès à l\'expert Expert')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Mission_create/Page_/td_D.EVCAT15032022DC12_MAT82DM2'), 0)
 

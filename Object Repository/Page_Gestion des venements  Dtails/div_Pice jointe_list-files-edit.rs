@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pice jointe_list-files-edit</name>
+   <tag></tag>
+   <elementGuidId>7602a95d-41ab-4763-adcb-48365e0b7309</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PieceJointeDiv']/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.list-files-edit</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>52de288f-7a93-4cae-8fa1-1ca66f7d9010</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-files-edit</value>
+      <webElementGuid>3194abc3-4215-42f9-90fb-51f6510795d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PieceJointeDiv&quot;)/div[@class=&quot;PieceJointe-form&quot;]/div[@class=&quot;row mb-3&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;list-files-edit&quot;]</value>
+      <webElementGuid>a897846b-cb9b-495e-a349-15228f1e0345</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PieceJointeDiv']/div/div/div/div</value>
+      <webElementGuid>6fea9e46-4081-470b-ab93-ff04078859f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pièce jointe :'])[1]/following::div[4]</value>
+      <webElementGuid>b80e8f6d-171b-41f2-ba31-c741d39d27a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Autre Adresse'])[2]/following::div[5]</value>
+      <webElementGuid>e9e3fa94-5766-4b1f-920f-50fbee7370fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Historique :'])[1]/preceding::div[1]</value>
+      <webElementGuid>33df12bd-88af-4f4a-9914-422dcbb0485f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Création'])[1]/preceding::div[1]</value>
+      <webElementGuid>ef14d6f0-9f2a-45b9-af48-7978a9f4fe08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/div/div</value>
+      <webElementGuid>0914504c-af15-4a43-95e6-3a67bc0b058b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
