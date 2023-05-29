@@ -34,4 +34,9 @@
       <initValue>''</initValue>
       <name>matricule</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>status</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

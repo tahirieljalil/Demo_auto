@@ -100,6 +100,12 @@
          <value>password</value>
          <variableId>cb3065f4-8213-4998-ba3d-669d4efe2ee2</variableId>
       </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>734010af-f8b8-42b9-89f9-224943270430</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>c57160d0-6785-4b32-9647-f2c0e85da503</guid>

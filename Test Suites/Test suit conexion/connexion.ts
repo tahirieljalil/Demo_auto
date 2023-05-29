@@ -38,6 +38,12 @@
          <value>password</value>
          <variableId>cb3065f4-8213-4998-ba3d-669d4efe2ee2</variableId>
       </variableLink>
+      <variableLink>
+         <testDataLinkId>56ca75a6-1729-4cfe-bf96-d15a66bb15ac</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Statut</value>
+         <variableId>734010af-f8b8-42b9-89f9-224943270430</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>ca883e0c-8f0c-426c-8efa-e146d3644ee1</guid>
