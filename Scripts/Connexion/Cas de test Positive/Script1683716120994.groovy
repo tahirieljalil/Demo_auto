@@ -1,8 +1,11 @@
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import javax.net.ssl.SSLEngineResult.Status as Status
 import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
 import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
@@ -19,34 +22,30 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.closeBrowser()
-
-WebUI.openBrowser('')
+WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://catback.eastus.cloudapp.azure.com/Identity/Account/Login?ReturnUrl=%2F')
 
-WebUI.setText(findTestObject('Object Repository/demo_connex/Page_CAT - Authentification/input_Connexion_Input.Login'), 'cat@cat.com')
+WebUI.setText(findTestObject('Object Repository/demo_connex/Page_CAT - Authentification/input_Connexion_Input.Login'), username)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/demo_connex/Page_CAT - Authentification/input_Connexion_Input.Password'), 
-    'R7+G68P4LMrw4PaWyLZvYQ==')
-
-WebUI.click(findTestObject('Object Repository/demo_connex/Page_CAT - Authentification/button_Connexion'))
-
-WebUI.rightClick(findTestObject('Object Repository/demo_connex/Page_CAT - Authentification/li_Votre login ou mot de passe est incorrect'))
-
-WebUI.setEncryptedText(findTestObject('Object Repository/demo_connex/Page_CAT - Authentification/input_Connexion_Input.Password'), 
-    'tFA8b+TFXdY=')
+WebUI.setText(findTestObject('Object Repository/demo_connex/Page_CAT - Authentification/input_Connexion_Input.Password'), 
+    password)
 
 WebUI.click(findTestObject('Object Repository/demo_connex/Page_CAT - Authentification/button_Connexion'))
+WebUI.verifyElementPresent(findTestObject('Accueil_element_present/a_Accueil'), 0)
 
-WebUI.setText(findTestObject('Object Repository/demo_connex/Page_CAT - Authentification/input_Connexion_Input.Login'), 'cat@cat.ma')
+/*
+if ((GlobalVariable.status == "true") && WebUI.verifyElementPresent(findTestObject('Accueil_element_present/a_Accueil'), 0)) {
+    assert true
 
-WebUI.setEncryptedText(findTestObject('Object Repository/demo_connex/Page_CAT - Authentification/input_Connexion_Input.Password'), 
-    'R7+G68P4LMrw4PaWyLZvYQ==')
+    println("test cas positive")
+} else if ((GlobalVariable.status == "false") && WebUI.verifyElementPresent(findTestObject('Accueil_element_present/a_Accueil'), 0)) {
+    assert true
 
-WebUI.click(findTestObject('Object Repository/demo_connex/Page_CAT - Authentification/button_Connexion'))
+    println("test cas negative")
+} else {
+    assert false
+}*/
 
-WebUI.click(findTestObject('Object Repository/demo_connex/Page_Plateforme de gestion des sinistres li_05fe44/a_Administration'))
-
-WebUI.click(findTestObject('Object Repository/demo_connex/Page_Plateforme de gestion des sinistres li_05fe44/a_Gestion des vnements'))
+WebUI.closeBrowser()
 

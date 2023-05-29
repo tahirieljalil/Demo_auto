@@ -21,14 +21,14 @@
    <testCaseLink>
       <guid>ca906daf-1949-4582-a685-3617d3e2c16e</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Houda_besion/Gestion des dossier sinistres _ phase_Remoq_declaration</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>bac3826e-e1a7-40b8-bcd1-68271e6cf092</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Houda_besion/Gestion des dossier sinistres _ phase remoq_ inde_corriger_telechargement</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>

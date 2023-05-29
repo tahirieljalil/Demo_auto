@@ -17,6 +17,12 @@
       <value></value>
       <variableId>cb3065f4-8213-4998-ba3d-669d4efe2ee2</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>734010af-f8b8-42b9-89f9-224943270430</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
@@ -30,5 +36,12 @@
       <id>cb3065f4-8213-4998-ba3d-669d4efe2ee2</id>
       <masked>false</masked>
       <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.status</defaultValue>
+      <description></description>
+      <id>734010af-f8b8-42b9-89f9-224943270430</id>
+      <masked>true</masked>
+      <name>statut</name>
    </variable>
 </TestCaseEntity>
