@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "A9B049114543AF96D517511A2FE1F43F",
+  "keywordClasses": [
+    {
+      "name": "customKeywords.ScrollAndClick",
+      "keywordMethods": [
+        {
+          "name": "scrollToAndClick",
+          "parameters": [
+            {
+              "name": "to",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

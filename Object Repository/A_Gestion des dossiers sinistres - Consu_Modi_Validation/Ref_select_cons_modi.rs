@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Ref_select_cons_modi</name>
+   <tag></tag>
+   <elementGuidId>8a1e096a-36b3-4f3d-87cb-27a09ad3c6af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/section/div[1]/div/div/div/div/div[2]/form/div[1]/div/div[1]/div[1]/div/div/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.label-inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8151fe54-e74e-4747-b2c5-bb6257ef499e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-inner</value>
+      <webElementGuid>25c595c6-4bb8-4037-bd6e-c5343aa1b0c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choisissez une option...</value>
+      <webElementGuid>61b8f77f-f77b-49fd-8b40-6be3a4cf6ba0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;div_Ref_Event_Id&quot;)/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes deselect&quot;]/div[@class=&quot;select-label&quot;]/span[@class=&quot;label-inner&quot;]</value>
+      <webElementGuid>5c22e540-a753-4580-8c12-11866a860088</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div_Ref_Event_Id']/div/div/div/span</value>
+      <webElementGuid>d4e8a295-a33e-4674-818e-dd739f82b7ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Référence EVCAT'])[1]/following::span[1]</value>
+      <webElementGuid>aed3ad39-f6df-4df7-8681-47b3e7209156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtre de recherche'])[1]/following::span[1]</value>
+      <webElementGuid>740336b5-df68-4123-9f84-e9e3826c2839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test-automo1295'])[2]/preceding::span[1]</value>
+      <webElementGuid>acaebdff-2400-49cf-b189-d29e33486823</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='auto_cree_even'])[2]/preceding::span[1]</value>
+      <webElementGuid>22e26c14-d3f8-44f4-bf2c-883cfa42b3d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Choisissez une option...']/parent::*</value>
+      <webElementGuid>3ba8c93a-b7d7-4b1a-b251-9b201c46be4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/span</value>
+      <webElementGuid>dda93f94-55a5-43c6-9dfb-c1ac7413cb42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Choisissez une option...' or . = 'Choisissez une option...')]</value>
+      <webElementGuid>b72a6f3f-0c6b-43d0-b5c1-4f629dbd04f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

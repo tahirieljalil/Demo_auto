@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Demande dindemnisation</name>
+   <tag></tag>
+   <elementGuidId>2e110b5d-fb3c-477a-93f9-0d0156a82e45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/section/div[1]/div/div/div/div/div[2]/form/div[1]/div[2]/div/div/div/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1b488dfd-0936-4322-b306-bfd30f3b6af9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-label</value>
+      <webElementGuid>00396e29-b646-4d1d-a37b-72473c4d38a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Demande d'indemnisation</value>
+      <webElementGuid>c0114b22-7758-45d5-9310-f0f8116a9cb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pagedContent&quot;)/div[@class=&quot;work-space&quot;]/div[@class=&quot;withe-space&quot;]/form[1]/div[@class=&quot;formulaire&quot;]/div[@class=&quot;row mb-4&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes deselect&quot;]/div[@class=&quot;select-label&quot;]</value>
+      <webElementGuid>9fd73e8c-f702-4dbb-8e28-614d3d34ea01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pagedContent']/div/div[2]/form/div/div[2]/div/div/div/div</value>
+      <webElementGuid>d830f0b6-0389-4164-b913-00097da158ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::div[3]</value>
+      <webElementGuid>d3bfe51d-4a5d-4248-8d30-237498b40c6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Déclaration'])[2]/preceding::div[1]</value>
+      <webElementGuid>83d7ce89-e75a-4cd9-bb4c-9480a76ed05a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div/div</value>
+      <webElementGuid>f42667c4-46e4-4ef3-83a2-f799bc63ccca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Demande d&quot; , &quot;'&quot; , &quot;indemnisation&quot;) or . = concat(&quot;Demande d&quot; , &quot;'&quot; , &quot;indemnisation&quot;))]</value>
+      <webElementGuid>7fce009f-6338-498c-aee2-c814257528ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

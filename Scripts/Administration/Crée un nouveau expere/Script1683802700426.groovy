@@ -33,10 +33,13 @@ WebUI.click(findTestObject('Object Repository/Expere/Page_Administration - Gesti
 
 WebUI.click(findTestObject('Object Repository/Expere/Page_Administration - Gestion des experts conseils/Page_Plateforme de gestion des sinistres li_05fe44/a_Administration'))
 
-WebUI.scrollToElement(findTestObject('Click_sur_consiel_expere/a_Gestion des experts Conseil'), 1)
+//WebUI.scrollToElement(findTestObject('Click_sur_consiel_expere/a_Gestion des experts Conseil'), 1)
+
+CustomKeywords.'customKeywords.ScrollAndClick.scrollToAndClick'(findTestObject('Click_sur_consiel_expere/a_Gestion des experts Conseil'))
+
 
 //WebUI.executeJavaScript('document.querySelector(\'.sidebar\').scrollTo(0, document.querySelector(\'.sidebar\').scrollHeight)', null)
-WebUI.click(findTestObject('Object Repository/Expere/Page_Administration - Gestion des experts conseils/Page_Plateforme de gestion des sinistres li_05fe44/a_Gestion des experts Conseil'))
+//WebUI.click(findTestObject('Object Repository/Expere/Page_Administration - Gestion des experts conseils/Page_Plateforme de gestion des sinistres li_05fe44/a_Gestion des experts Conseil'))
 
 WebUI.click(findTestObject('Object Repository/Expere/Page_Administration - Gestion des experts conseils/Page_Administration - Gestion des experts conseils/a_Ajouter un expert'))
 

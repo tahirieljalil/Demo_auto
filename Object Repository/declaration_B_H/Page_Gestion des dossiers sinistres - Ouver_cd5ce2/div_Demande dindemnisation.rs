@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Demande dindemnisation</name>
+   <tag></tag>
+   <elementGuidId>ac5e0ebd-5b8f-40e2-8856-45de3d2979da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pagedContent']/div/div[2]/form/div/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bf2dcc4a-d67f-4b0d-a485-21228f1eeb4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-label</value>
+      <webElementGuid>c39281ba-deff-472c-9891-00c8fd3daf54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Demande d'indemnisation</value>
+      <webElementGuid>31783a36-ad1c-4757-ad2a-c9f12d635695</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pagedContent&quot;)/div[@class=&quot;work-space&quot;]/div[@class=&quot;withe-space&quot;]/form[1]/div[@class=&quot;formulaire&quot;]/div[@class=&quot;row mb-4&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes deselect&quot;]/div[@class=&quot;select-label&quot;]</value>
+      <webElementGuid>e08db036-db1b-4f91-9b13-b5b1bc8a20dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pagedContent']/div/div[2]/form/div/div[2]/div/div/div/div</value>
+      <webElementGuid>331f688e-cf31-4990-90b1-18d22b4f7be4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::div[3]</value>
+      <webElementGuid>a604673d-94de-48e9-a4fb-5398133d0ab3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Déclaration'])[2]/preceding::div[1]</value>
+      <webElementGuid>647453d8-b684-42f3-8e18-1b4ea46168ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div/div</value>
+      <webElementGuid>24925575-6bbb-462d-ae8d-931adfee97c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Demande d&quot; , &quot;'&quot; , &quot;indemnisation&quot;) or . = concat(&quot;Demande d&quot; , &quot;'&quot; , &quot;indemnisation&quot;))]</value>
+      <webElementGuid>36f44880-614a-462a-8fb7-1d556167591d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

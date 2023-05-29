@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_A1009  ASMA ASSURANCES</name>
+   <tag></tag>
+   <elementGuidId>9127410e-94e7-490e-ac30-36fcfcddbc49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/section/div[1]/div/div/div/div/div[2]/div/form/div[2]/div/div[5]/div[2]/div/div/div[2]/div[2]/ul/li[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>06c5daeb-0f82-4965-b5fe-8fe63b54505d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-option</value>
+      <webElementGuid>f45f43d0-ba16-441c-8f3b-7046711c8c7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-key</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>021b792d-2301-400d-81ea-9dfd27e441a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-group</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>fbdd576b-f16c-4fc7-8041-760ebcd38afe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>A1009 : ASMA ASSURANCES</value>
+      <webElementGuid>3a8ce0f6-1ddc-49e6-8b19-1c7190f2232d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formSinistre&quot;)/div[@class=&quot;formulaire&quot;]/div[@class=&quot;Demendeur-form&quot;]/div[@class=&quot;row mb-3&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes deselect active&quot;]/div[@class=&quot;select-dropdown&quot;]/div[@class=&quot;dropdown-inner&quot;]/ul[@class=&quot;dropdown-optgroup&quot;]/li[@class=&quot;dropdown-option&quot;]</value>
+      <webElementGuid>593c1c14-3cc2-4122-b64e-a61efc4d49ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='formSinistre']/div[2]/div/div[5]/div[2]/div/div/div[2]/div[2]/ul/li[3]</value>
+      <webElementGuid>0fd55aac-cfe4-4056-83b7-7b0c05932f38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A1008 : ASSURANCES ZEROUALI'])[2]/following::li[1]</value>
+      <webElementGuid>a9ab2bdf-6b23-4f70-b1c1-a74483a0ed07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A1001 : ASSURANCES MAAOUNI'])[2]/following::li[2]</value>
+      <webElementGuid>15800b44-ae36-4ad7-8102-27c0116e9283</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A1014 : IMASSUR'])[2]/preceding::li[1]</value>
+      <webElementGuid>ce002c8f-1fed-439e-a5fd-c20eb6c1e424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A1017 : ARPEC'])[2]/preceding::li[2]</value>
+      <webElementGuid>509f2397-fde6-4c0c-b4ec-8ae3b0043c71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div[2]/ul/li[3]</value>
+      <webElementGuid>8c622274-c60f-41ba-bb17-03b9b24bf2f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'A1009 : ASMA ASSURANCES' or . = 'A1009 : ASMA ASSURANCES')]</value>
+      <webElementGuid>47cb5496-9a51-40ea-a4f7-0e30df34d65f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Demande dindemnisation</name>
+   <tag></tag>
+   <elementGuidId>36523651-d82e-4dba-a900-80b189924f47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pagedContent']/div/div[2]/form/div/div[2]/div/div/div/div[2]/div/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>4c007298-10ee-463b-9241-2628707a3545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-option</value>
+      <webElementGuid>8d0be032-859e-46b0-87b1-bd8ab224c7ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-key</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>0eb94151-6541-4f47-ad60-ef0d82639dd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-group</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>6b7ee372-4d51-4715-b4d1-b021e930fa4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Demande d'indemnisation</value>
+      <webElementGuid>efd49b36-e0d1-46b5-a9c7-df327ffa8ba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pagedContent&quot;)/div[@class=&quot;work-space&quot;]/div[@class=&quot;withe-space&quot;]/form[1]/div[@class=&quot;formulaire&quot;]/div[@class=&quot;row mb-4&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes deselect active&quot;]/div[@class=&quot;select-dropdown&quot;]/div[@class=&quot;dropdown-inner&quot;]/ul[@class=&quot;dropdown-optgroup&quot;]/li[@class=&quot;dropdown-option&quot;]</value>
+      <webElementGuid>df931796-f574-4134-8be7-201fd100e2fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pagedContent']/div/div[2]/form/div/div[2]/div/div/div/div[2]/div/ul/li[2]</value>
+      <webElementGuid>2a4d110a-d5fe-423d-b5c7-8575bc428b83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Déclaration'])[2]/following::li[1]</value>
+      <webElementGuid>632b2295-52c9-4549-aef3-8088a2fe3cc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sélectionner ...'])[2]/following::li[2]</value>
+      <webElementGuid>608212f1-f7ea-4033-9094-e5f794173b6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/preceding::li[1]</value>
+      <webElementGuid>3cb1b7f8-5bda-4143-b5c8-81025c095bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/ul/li[2]</value>
+      <webElementGuid>bd101d26-c459-43c0-859a-7536865412ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = concat(&quot;Demande d&quot; , &quot;'&quot; , &quot;indemnisation&quot;) or . = concat(&quot;Demande d&quot; , &quot;'&quot; , &quot;indemnisation&quot;))]</value>
+      <webElementGuid>5e28aea9-2caa-4aed-a922-71eb79e5af3c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

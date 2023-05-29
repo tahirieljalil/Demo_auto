@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td</name>
+   <tag></tag>
+   <elementGuidId>955d229e-a0f4-4fcd-a600-d5b8b58cf9f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(3) > td</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tableEvenements']/table/tbody/tr[3]/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>7f4228d0-6ce9-40cb-8668-7365309821ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-title</name>
+      <type>Main</type>
+      <value>Référence EVCAT Définitive</value>
+      <webElementGuid>f2f55811-b8ae-4042-8fc3-7940b29f067f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tableEvenements&quot;)/table[@class=&quot;omn-table table table-condensed table-body-center actions&quot;]/tbody[1]/tr[3]/td[1]</value>
+      <webElementGuid>11d2eaa7-6970-415c-acb5-094959d1331e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tableEvenements']/table/tbody/tr[3]/td</value>
+      <webElementGuid>210f35a5-4bd4-4f3a-a8eb-9b482545b741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td</value>
+      <webElementGuid>bc8116de-0d7e-4460-bbcd-aa821ee9a721</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

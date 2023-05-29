@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_verify_code</name>
+   <tag></tag>
+   <elementGuidId>b5908ef5-436e-4016-82ba-652b07c42911</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='personForm']/div[2]/div[4]/table/tbody/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>3f4af9c0-8820-4512-99c4-a12fb94818b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-title</name>
+      <type>Main</type>
+      <value>Référence dossier sinistre</value>
+      <webElementGuid>858e8c61-7d6c-4851-bf93-20ee488fc8a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hv96/DC1_MAT/82/DM1</value>
+      <webElementGuid>2abd46b4-c434-481e-8350-5fe30b08fb19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;personForm&quot;)/div[@class=&quot;row personTable&quot;]/div[@class=&quot;col-lg-12 responsive-table-line custom-table-css&quot;]/table[@class=&quot;omn-table table table-condensed table-body-center&quot;]/tbody[1]/tr[1]/td[2]</value>
+      <webElementGuid>8d7ff310-743f-440a-9f68-59d928be9cbc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='personForm']/div[2]/div[4]/table/tbody/tr/td[2]</value>
+      <webElementGuid>e32f5525-b0a9-4b6d-8b26-0bdf58d2738a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wafa Assurance'])[1]/following::td[1]</value>
+      <webElementGuid>5a53a65e-2539-4812-8c16-d091cc1a70f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::td[2]</value>
+      <webElementGuid>7da28a90-0f54-4c35-8e30-7cf52a763a4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Demande d', &quot;'&quot;, 'indemnisation')])[3]/preceding::td[1]</value>
+      <webElementGuid>181a5abc-c2c1-4916-aa4e-3df124449c79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HE2039'])[1]/preceding::td[2]</value>
+      <webElementGuid>a342fd30-af7a-4f5c-b543-a560a5ffb1cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>673caa3c-a0d3-4faf-aada-5d4ffedc5fc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Hv96/DC1_MAT/82/DM1' or . = 'Hv96/DC1_MAT/82/DM1')]</value>
+      <webElementGuid>aa2aeb6b-28be-44c6-b9eb-2dd98db24943</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

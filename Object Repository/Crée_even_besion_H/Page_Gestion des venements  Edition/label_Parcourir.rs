@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Parcourir</name>
+   <tag></tag>
+   <elementGuidId>6bae8b81-c2c5-4bf8-bf66-0d71a5fc2851</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.multi-Upload</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Pièces jointes :'])[1]/following::label[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>287d86a1-2219-4def-a71a-bd486d258f5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multi-Upload</value>
+      <webElementGuid>04392790-f451-46c8-beab-dd2c054078b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Parcourir </value>
+      <webElementGuid>b2a43ab3-93de-4ff1-87a7-e3fc20d757c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PieceJointeDiv&quot;)/div[@class=&quot;PieceJointe-form&quot;]/div[@class=&quot;row mb-3&quot;]/div[@class=&quot;col-sm-12&quot;]/label[@class=&quot;multi-Upload&quot;]</value>
+      <webElementGuid>8c072f68-d34d-4e63-821a-16562f4bfff3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PieceJointeDiv']/div/div[2]/div/label</value>
+      <webElementGuid>7d763c60-356a-4938-819d-40228cbbb857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pièces jointes :'])[1]/following::label[1]</value>
+      <webElementGuid>8a712499-b32c-47b4-9edd-37f167370171</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajouter une zone touchée'])[2]/following::label[1]</value>
+      <webElementGuid>bb3d474f-c959-4d27-9fac-b845e4c77bf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Les fichiers selectionnés'])[1]/preceding::label[1]</value>
+      <webElementGuid>2de8921b-368f-40ca-8135-c9660969d485</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Historique :'])[1]/preceding::label[1]</value>
+      <webElementGuid>4c650196-0856-4e70-9105-5e436100a640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Parcourir']/parent::*</value>
+      <webElementGuid>79087659-9a8f-4350-9c56-c1b65d32a70d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div[2]/div/label</value>
+      <webElementGuid>203fcaf5-d9b7-4e2a-9675-dfee3b17cfb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '  Parcourir ' or . = '  Parcourir ')]</value>
+      <webElementGuid>9d5723ff-f0df-49d1-ac06-6767897ab800</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

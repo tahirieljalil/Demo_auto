@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_ville</name>
+   <tag></tag>
+   <elementGuidId>692843fc-4b14-4d44-a62d-9ff8cad2f031</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/section/div[1]/div/div/div/div/div[2]/div/form/div/div[5]/div/div[1]/div/div/div[3]/div/div/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f53ae90e-4386-4fcc-be8d-e423de9f7fbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-label</value>
+      <webElementGuid>b2e4f6b9-3095-4b73-b3fd-d57059c31265</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sélectionner ...</value>
+      <webElementGuid>01d996ea-4a4a-40ad-9c0d-b202da261144</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ZoneTouchees[e71779c4-7b5b-4722-91a2-92e9b3abc947]villeList&quot;)/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes deselect&quot;]/div[@class=&quot;select-label&quot;]</value>
+      <webElementGuid>3d7d1bc7-23bc-42f6-bb42-a920067f3d71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ZoneTouchees[e71779c4-7b5b-4722-91a2-92e9b3abc947]villeList']/div/div/div</value>
+      <webElementGuid>ed57c8bd-c73b-4670-88c2-1cc07361f63d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ville'])[1]/following::div[3]</value>
+      <webElementGuid>24082f33-7855-434f-a686-3dd4b3571f5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MAR_BEM'])[3]/following::div[4]</value>
+      <webElementGuid>217e8c42-1e67-43ea-b82b-25bfb5e695e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AGADIR'])[2]/preceding::div[2]</value>
+      <webElementGuid>ffabcfab-ca0e-43a4-b1f8-79245650a937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[3]/div/div/div</value>
+      <webElementGuid>cfc27fda-268b-4294-b4e8-c5a045aa94d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sélectionner ...' or . = 'Sélectionner ...')]</value>
+      <webElementGuid>5fb84b22-1e83-4019-ac2a-91d11b8a980a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

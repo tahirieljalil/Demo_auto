@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Choisissez une option</name>
+   <tag></tag>
+   <elementGuidId>94b9bcb4-d0fc-4901-a4aa-cd75a98caf69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='div_Ref_Event_Id']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.select-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bd991e20-8f01-4559-bc0c-282ce1065f68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-label</value>
+      <webElementGuid>79ff7772-4e33-4eff-a087-ada7bfb3f68c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choisissez une option...</value>
+      <webElementGuid>34145f3f-2fc8-4f21-809a-f61ada265682</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;div_Ref_Event_Id&quot;)/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes deselect&quot;]/div[@class=&quot;select-label&quot;]</value>
+      <webElementGuid>5e99415a-b62f-4202-916e-242391d274ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div_Ref_Event_Id']/div/div/div</value>
+      <webElementGuid>e28fcda2-78d5-4fee-a036-6e0f8e8a0e74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Référence EVCAT'])[1]/following::div[3]</value>
+      <webElementGuid>85050178-e999-4119-b061-6359e8f3ffdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtre de recherche'])[1]/following::div[7]</value>
+      <webElementGuid>bd64b323-6ac8-4be3-a407-07c719029632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test-automo1295'])[2]/preceding::div[2]</value>
+      <webElementGuid>b6410c62-2cba-436f-a7b8-3a3f8bed5548</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div/div/div/div</value>
+      <webElementGuid>121f5c6f-a396-4f1d-91b1-6cacd2a72a23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Choisissez une option...' or . = 'Choisissez une option...')]</value>
+      <webElementGuid>98eeedbe-74d2-475f-a4f6-1b42eb20783a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

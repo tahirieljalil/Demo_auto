@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Enregistrer</name>
+   <tag></tag>
+   <elementGuidId>b7b4149b-f400-4e4d-be90-1f6f015545ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-lg-12.text-right > button.btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='createEvenement']/div/div[8]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5b6f53fe-cc1c-4ca3-8876-6ea2efebfb14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn</value>
+      <webElementGuid>9191d000-a595-4c4d-852c-91ad49aab3c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enregistrer</value>
+      <webElementGuid>20f1adaa-8cdb-4877-9193-a85903a67df7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;createEvenement&quot;)/div[@class=&quot;new-avocat&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 text-right&quot;]/button[@class=&quot;btn&quot;]</value>
+      <webElementGuid>03f1d4e0-350c-43c6-ae06-d699450abc9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='createEvenement']/div/div[8]/div/button</value>
+      <webElementGuid>3bb4147f-ca2e-4092-8e8c-c3835dd2ef14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Les fichiers selectionnés'])[1]/following::button[1]</value>
+      <webElementGuid>c0e329f7-bdf8-4e9e-9466-f6b94d82a972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parcourir'])[1]/following::button[1]</value>
+      <webElementGuid>54e515a5-53ef-418b-b8c2-c6ce99b4cd76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='www.cat.co.ma'])[1]/preceding::button[1]</value>
+      <webElementGuid>c31d719b-b0cc-4aaa-8874-6db52486485f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2023 All Rights Reserved.'])[1]/preceding::button[1]</value>
+      <webElementGuid>bc23bdbc-9eed-4a99-ae21-03b912db0390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enregistrer']/parent::*</value>
+      <webElementGuid>669332e1-a863-45a7-8f27-dabe5bbddd72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button</value>
+      <webElementGuid>37c04781-c330-4ad1-8478-5ab86d257c19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Enregistrer' or . = 'Enregistrer')]</value>
+      <webElementGuid>57b67053-4cc5-46f6-83d8-3ba9962c7c0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

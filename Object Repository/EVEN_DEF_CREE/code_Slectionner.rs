@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>code_Slectionner</name>
+   <tag></tag>
+   <elementGuidId>efdedc3e-299a-443b-90cf-b79e88af803a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tail-select.no-classes.deselect.active > div.select-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/section/div[1]/div/div/div/div/div[2]/div/form/div/div[6]/div/div[1]/div/div/div[2]/div[2]/div[2]/div/div/div/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>815ccc50-eef4-47d0-b234-b3107d084556</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-label</value>
+      <webElementGuid>aaff98d0-8f14-4b96-8791-1947eb245e9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sélectionner ...</value>
+      <webElementGuid>106db966-3434-42df-9f56-2a02e5229269</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ZoneTouchees_Definitives[50c5b1a1-4865-4027-a6f0-6c86ae466c0d]codecrestaList&quot;)/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes deselect active&quot;]/div[@class=&quot;select-label&quot;]</value>
+      <webElementGuid>dc840248-80e7-43d7-90fa-88cf65fa89b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ZoneTouchees_Definitives[50c5b1a1-4865-4027-a6f0-6c86ae466c0d]codecrestaList']/div/div/div/div</value>
+      <webElementGuid>ef978fcc-9436-47b1-8f8b-1e85780693c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Code Cresta'])[2]/following::div[3]</value>
+      <webElementGuid>f82418cd-f862-4338-a994-39e8679e8a1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='taghzirt'])[2]/following::div[5]</value>
+      <webElementGuid>e2e50460-aa1a-4315-a585-15330301fb9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MAR_BEM'])[2]/preceding::div[1]</value>
+      <webElementGuid>3a0dee37-056b-487f-8ce3-991b155d2d17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div[2]/div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>048bc738-c62e-4977-9d0b-60e0bb197a69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sélectionner ...' or . = 'Sélectionner ...')]</value>
+      <webElementGuid>d1553a39-5f64-419d-ae60-532f10a3db53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

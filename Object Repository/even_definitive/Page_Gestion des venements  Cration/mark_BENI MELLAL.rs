@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mark_BENI MELLAL</name>
+   <tag></tag>
+   <elementGuidId>9e485cf3-b4fc-41b6-b366-d984d1c707a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>mark</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ZoneTouchees_Definitives[2abfebe7-1f0f-4a87-9665-de141c260abd]villeList']/div/div/div[2]/div[2]/ul/li/mark</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mark</value>
+      <webElementGuid>169118bc-0b5c-4a1b-875a-cb47e3377fdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BENI MELLAL</value>
+      <webElementGuid>ccdb7be7-6508-40f0-8405-9ae7d3b04a9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ZoneTouchees_Definitives[2abfebe7-1f0f-4a87-9665-de141c260abd]villeList&quot;)/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes deselect active&quot;]/div[@class=&quot;select-dropdown&quot;]/div[@class=&quot;dropdown-inner&quot;]/ul[@class=&quot;dropdown-optgroup&quot;]/li[@class=&quot;dropdown-option&quot;]/mark[1]</value>
+      <webElementGuid>ced7a26b-6300-4882-9153-8740a411328c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ZoneTouchees_Definitives[2abfebe7-1f0f-4a87-9665-de141c260abd]villeList']/div/div/div[2]/div[2]/ul/li/mark</value>
+      <webElementGuid>420547f0-b88e-4900-847a-cc6141edfcae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sélectionner ...'])[4]/following::mark[1]</value>
+      <webElementGuid>10713da6-09f2-410d-8e05-8a5382584e87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ville'])[2]/following::mark[1]</value>
+      <webElementGuid>cae3ce97-fceb-44ee-858a-2c46e2f8c825</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Autre Adresse'])[2]/preceding::mark[1]</value>
+      <webElementGuid>e8b07af7-36f9-4dd4-b6ff-a3ff0b6898b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajouter une zone touchée'])[2]/preceding::mark[1]</value>
+      <webElementGuid>dd441cde-29f8-46bf-a53d-d2f7ded875b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mark</value>
+      <webElementGuid>607906c1-ea68-4883-8ca2-6f0e7c4efcd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mark[(text() = 'BENI MELLAL' or . = 'BENI MELLAL')]</value>
+      <webElementGuid>126b5fa4-da06-40d5-9383-41aff94ef59f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

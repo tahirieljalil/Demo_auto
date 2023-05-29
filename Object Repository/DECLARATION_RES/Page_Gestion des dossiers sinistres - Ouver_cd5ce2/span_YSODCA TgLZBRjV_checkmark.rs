@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_YSODCA TgLZBRjV_checkmark</name>
+   <tag></tag>
+   <elementGuidId>5f6f5cc9-21ef-4b1d-8127-84fc6d9e6d40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tableDemande']/table/tbody/tr/td[4]/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(4) > div > label.my-radio > span.checkmark</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1ccb503b-e003-4991-b8a2-4dbe7191c811</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkmark</value>
+      <webElementGuid>41e63873-63a1-4d18-a848-8a2a27e56022</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tableDemande&quot;)/table[@class=&quot;omn-table table table-condensed table-body-center actions&quot;]/tbody[1]/tr[1]/td[4]/div[1]/label[@class=&quot;my-radio&quot;]/span[@class=&quot;checkmark&quot;]</value>
+      <webElementGuid>3c94174e-6a57-411d-b5f9-b3eec0c6c8cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tableDemande']/table/tbody/tr/td[4]/div/label/span</value>
+      <webElementGuid>6d370029-b480-4181-a6bd-4b340995232a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/div/label/span</value>
+      <webElementGuid>e1723033-165c-4d9c-b7bf-a4808f30ee5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

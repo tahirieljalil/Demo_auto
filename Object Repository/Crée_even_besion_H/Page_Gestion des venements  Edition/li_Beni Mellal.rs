@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Beni Mellal</name>
+   <tag></tag>
+   <elementGuidId>13928009-cfc0-4de0-8897-4eae53099d28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Evenement._Definitives461e5801-ad86-44dd-8123-35b1cf5d2683PrefectureProvinceList']/div/div/div/div[2]/div/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>56b723ad-52a5-4fbb-8f2d-177fd75f6ca1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-option</value>
+      <webElementGuid>07fe9440-89f3-41f8-a225-99bc2a07cd58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-key</name>
+      <type>Main</type>
+      <value>7</value>
+      <webElementGuid>de99b581-daf7-434c-b6bd-2b534db43cec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-group</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>3b0b8df7-cc28-4229-8031-71f2767f720f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Beni Mellal</value>
+      <webElementGuid>4650218f-f1b2-456b-87e6-8b595f933d42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Evenement._Definitives461e5801-ad86-44dd-8123-35b1cf5d2683PrefectureProvinceList&quot;)/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes deselect active&quot;]/div[@class=&quot;select-dropdown&quot;]/div[@class=&quot;dropdown-inner&quot;]/ul[@class=&quot;dropdown-optgroup&quot;]/li[@class=&quot;dropdown-option&quot;]</value>
+      <webElementGuid>72b74d2a-e0db-4a21-9b35-3eb1bf4fa745</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Evenement._Definitives461e5801-ad86-44dd-8123-35b1cf5d2683PrefectureProvinceList']/div/div/div/div[2]/div/ul/li[2]</value>
+      <webElementGuid>c3484c16-5a5e-484e-b828-b398366800bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Azilal'])[4]/following::li[1]</value>
+      <webElementGuid>a40e0652-a206-4d5b-a359-bf57bc8e4965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sélectionner ...'])[2]/following::li[2]</value>
+      <webElementGuid>fcc68317-8c60-404a-ade2-fb17c5c91ce6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fquih Ben Salah'])[4]/preceding::li[1]</value>
+      <webElementGuid>d38b1be6-08a8-4480-9491-c268132a2cc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Khenifra'])[4]/preceding::li[2]</value>
+      <webElementGuid>5a6d7495-822c-417f-ad45-d22a4b0811fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/div/div/div[2]/div/div/div/div[2]/div/ul/li[2]</value>
+      <webElementGuid>8ef2d114-5949-41cd-94eb-03d381735393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Beni Mellal' or . = 'Beni Mellal')]</value>
+      <webElementGuid>b326a61a-0488-4ddd-93c3-0846d467a75c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

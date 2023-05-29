@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Filtre de recherche</name>
+   <tag></tag>
+   <elementGuidId>baf74bfc-84bc-4d6f-8d1e-82ed34bdd0d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='personForm']/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.filtre</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>b5dffe55-2b72-4de4-8420-4f7c40146d25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filtre</value>
+      <webElementGuid>8cb9fc45-f593-429f-9a88-4bec8a7743b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Filtre de recherche  </value>
+      <webElementGuid>c5f2183c-a268-4236-a470-87cbf2de82c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;personForm&quot;)/h3[@class=&quot;filtre&quot;]</value>
+      <webElementGuid>cbf77eaf-c5da-4b78-bbfa-46d685d1b2e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='personForm']/h3</value>
+      <webElementGuid>18b26a59-f6d2-47b1-a2d0-ca3354eafbcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultation / Modification / Validation des dossiers sinistres'])[1]/following::h3[1]</value>
+      <webElementGuid>e2400492-7fc9-4721-9b3b-227d09038e34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gestion des dossiers sinistres'])[2]/following::h3[1]</value>
+      <webElementGuid>3634725c-de04-4783-83fd-cc3259c53690</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Référence EVCAT'])[1]/preceding::h3[1]</value>
+      <webElementGuid>585de7f8-a2b8-4aed-9911-73935af7abf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choisissez une option...'])[1]/preceding::h3[1]</value>
+      <webElementGuid>44fd21a0-7e3d-4520-b02e-e1760fbff4fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Filtre de recherche']/parent::*</value>
+      <webElementGuid>d48315fc-c1c0-4eb0-bf9c-3e58170ae8df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>f862098e-93f7-423c-9353-2cfb30ca47f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Filtre de recherche  ' or . = 'Filtre de recherche  ')]</value>
+      <webElementGuid>f10cc775-5dca-4941-ae56-c5422604295b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_AGADIR</name>
+   <tag></tag>
+   <elementGuidId>3dc4208c-6c0b-46e8-9451-63fbed3cc27e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tail-select.geo-read-ville.deselect.active > div.select-label > span.label-inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='villesDdp']/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b90992f6-6ca6-40da-b5cc-5badc1a44733</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-inner</value>
+      <webElementGuid>6aa1f5b8-e7f2-43b6-81a8-e355d94e1e5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AGADIR</value>
+      <webElementGuid>1d10ced3-a0ac-4c10-a4b0-3c25b3f1a2d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;villesDdp&quot;)/div[@class=&quot;tail-select geo-read-ville deselect active&quot;]/div[@class=&quot;select-label&quot;]/span[@class=&quot;label-inner&quot;]</value>
+      <webElementGuid>92f523d6-4ab9-4302-b397-f3c25144e988</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='villesDdp']/div/div/span</value>
+      <webElementGuid>72c23e92-b2be-439a-80ae-43720a9cf988</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[11]/following::span[1]</value>
+      <webElementGuid>5a0cba6b-6283-4b35-aba6-8ebadf75b1e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AGADIR'])[3]/preceding::span[1]</value>
+      <webElementGuid>40c16f30-47a7-438a-b297-5a6614a7f922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AGHWINIT'])[2]/preceding::span[1]</value>
+      <webElementGuid>4a31ce75-6f9f-4ea8-9a91-61f39fb025b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div/div/div/span</value>
+      <webElementGuid>6410b2de-bfb3-4091-bbae-b91ea24053ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'AGADIR' or . = 'AGADIR')]</value>
+      <webElementGuid>d7394463-87ff-4915-b925-27231171533d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

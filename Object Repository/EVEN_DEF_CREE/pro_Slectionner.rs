@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pro_Slectionner</name>
+   <tag></tag>
+   <elementGuidId>a1981e88-6d26-4cf7-98f2-2f1c9f0bde0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#_Definitives50c5b1a1-4865-4027-a6f0-6c86ae466c0dPrefectureProvinceList > div.col-sm-6 > div.box > div.tail-select.no-classes.deselect > div.select-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/section/div[1]/div/div/div/div/div[2]/div/form/div/div[6]/div/div[1]/div/div/div[2]/div[1]/div/div/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c82a5088-331a-4cd4-ada1-1b7e25b3fb86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-label</value>
+      <webElementGuid>8416414e-9029-4fe3-8268-90cdfc8517a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aucune option disponible</value>
+      <webElementGuid>bc86845f-b7c9-47d2-9fad-cba2158fee07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_Definitives50c5b1a1-4865-4027-a6f0-6c86ae466c0dPrefectureProvinceList&quot;)/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes deselect&quot;]/div[@class=&quot;select-label&quot;]</value>
+      <webElementGuid>25dd58a5-bd97-481a-8209-61f14a0f8340</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_Definitives50c5b1a1-4865-4027-a6f0-6c86ae466c0dPrefectureProvinceList']/div/div/div/div</value>
+      <webElementGuid>30c4d50c-da5a-422b-b1ef-179d29c0e361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prefecture/Province'])[2]/following::div[3]</value>
+      <webElementGuid>64d99e15-2f65-40be-878f-12e5e9fef52b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[4]/following::div[5]</value>
+      <webElementGuid>f069cc9c-3f68-4a63-9559-9b1484e5bf1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aucune option disponible'])[8]/preceding::div[1]</value>
+      <webElementGuid>2838f991-fea1-4f2c-aa46-ff9014182e69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>0ebfeff2-ce1c-4099-aa70-e3884466dd7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Aucune option disponible' or . = 'Aucune option disponible')]</value>
+      <webElementGuid>416934d6-4151-488f-9ad5-37479123cf59</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_N immatriculation</name>
+   <tag></tag>
+   <elementGuidId>29bc2ce8-043a-46a5-a009-fd65bd879042</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#imma > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='imma']/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>5bc40fd3-add7-4f74-995b-b8cca4b6a7af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>N_Immatriculation</value>
+      <webElementGuid>4551d97a-8656-4721-98e1-5b3462da0f6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>N° immatriculation *</value>
+      <webElementGuid>a143843a-c94a-4a72-aafa-ddba4603b3bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;imma&quot;)/label[1]</value>
+      <webElementGuid>44f64af1-daaa-4b9a-9852-38e82f018694</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='imma']/label</value>
+      <webElementGuid>98170c49-38f3-4965-b2c5-db91ee90018b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Numéro chassis'])[2]/following::label[1]</value>
+      <webElementGuid>84a4a3a3-52f4-4a0a-b68c-0cb0a10b76e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Frontière'])[2]/following::label[1]</value>
+      <webElementGuid>bb6be324-e419-4dee-bdeb-015a168f0396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identification de la déclaration'])[1]/preceding::label[1]</value>
+      <webElementGuid>505668a8-b70e-423e-941d-9baa549db576</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='N° immatriculation']/parent::*</value>
+      <webElementGuid>0bee47f5-246c-4863-b200-70c6f4d7dd5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/label</value>
+      <webElementGuid>d1fa6805-731f-40d8-a0eb-a7f7961a06da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'N° immatriculation *' or . = 'N° immatriculation *')]</value>
+      <webElementGuid>1d9f0208-119d-4a9e-a4c2-a2a3b636f9df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

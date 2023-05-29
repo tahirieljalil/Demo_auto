@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Slectionner</name>
+   <tag></tag>
+   <elementGuidId>1f5f2196-a663-470d-90bb-1ee74696fa4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='autreQualiteDemandeur']/div/div/div[6]/div/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b23dd666-8a1c-4c3d-ab0e-f310cfa16e32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-inner</value>
+      <webElementGuid>0c9b9763-62f4-4227-baac-d42a7b2655de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sélectionner ...</value>
+      <webElementGuid>578de2b7-bd61-4967-ba12-90096a750a74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;autreQualiteDemandeur&quot;)/div[@class=&quot;formulaire&quot;]/div[@class=&quot;Assure-form&quot;]/div[@class=&quot;row mb-3&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes deselect&quot;]/div[@class=&quot;select-label&quot;]/span[@class=&quot;label-inner&quot;]</value>
+      <webElementGuid>e1bc195a-fefe-4005-a9d8-a8befc189c81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='autreQualiteDemandeur']/div/div/div[6]/div/div/div/div/span</value>
+      <webElementGuid>e65e6609-a743-4c5f-83f7-d87978b24395</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[27]/following::span[1]</value>
+      <webElementGuid>061ba280-a773-4883-8052-084c6c77707d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A1001 : ASSURANCES MAAOUNI'])[2]/preceding::span[1]</value>
+      <webElementGuid>d7ccb8ad-dda1-4141-8bf1-d53ce2a0c6ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A1008 : ASSURANCES ZEROUALI'])[2]/preceding::span[1]</value>
+      <webElementGuid>094e9ed7-93b2-41be-8dd5-422d27ffa106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sélectionner ...']/parent::*</value>
+      <webElementGuid>ff20bd5d-8c45-43a6-81b0-70f33a7503c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/span</value>
+      <webElementGuid>870531d7-6f9c-4a64-890a-220bd7967377</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sélectionner ...' or . = 'Sélectionner ...')]</value>
+      <webElementGuid>1cef2f55-227f-48c0-86ac-5a4a4053abc5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Slectionner</name>
+   <tag></tag>
+   <elementGuidId>55b5440e-b79b-4cdb-8afd-dd0ae33ef839</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.label-inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pagedContent']/div/div[2]/form/div/div/div/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3a2b91ce-7c9a-46d5-b132-3a414bfa58da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-inner</value>
+      <webElementGuid>879c7f09-d277-4c54-a940-22606e5a1d3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sélectionner ...</value>
+      <webElementGuid>30d2acd1-324e-45cc-9a87-c93d42b01aa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pagedContent&quot;)/div[@class=&quot;work-space&quot;]/div[@class=&quot;withe-space&quot;]/form[1]/div[@class=&quot;formulaire&quot;]/div[@class=&quot;row mb-4&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes deselect&quot;]/div[@class=&quot;select-label&quot;]/span[@class=&quot;label-inner&quot;]</value>
+      <webElementGuid>bdbf5243-7d73-4954-baad-11b5f93d324d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pagedContent']/div/div[2]/form/div/div/div/div/div/div/span</value>
+      <webElementGuid>e245f4e5-c13f-45a6-a050-4fb3ddbaeec2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[1]</value>
+      <webElementGuid>651cd6b3-7f34-4c8c-a576-fbd6b60c1ee6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test-automo1295'])[2]/preceding::span[1]</value>
+      <webElementGuid>fdc1f482-b680-4fbe-8ba3-0c2acc1a2320</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='auto_cree_even'])[2]/preceding::span[1]</value>
+      <webElementGuid>28af9c63-bde5-4f1a-9deb-ea1478d6149e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sélectionner ...']/parent::*</value>
+      <webElementGuid>d0992cf7-087c-46a4-80b6-537fa4a351d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/span</value>
+      <webElementGuid>5ab91065-d91a-4864-bea8-5e88bf6b4f8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sélectionner ...' or . = 'Sélectionner ...')]</value>
+      <webElementGuid>b0064a0c-f192-4423-95c3-d035c3b0e929</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Matriel</name>
+   <tag></tag>
+   <elementGuidId>4ecf9bc5-bfc5-4e63-90de-db9096fe5a76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tail-select.no-classes.deselect.active > div.select-dropdown > div.dropdown-inner > ul.dropdown-optgroup > li.dropdown-option.selected</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='typeNat']/div/div/div[2]/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>1eee3c34-9347-4d6c-9926-d220ed6fb173</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-option selected</value>
+      <webElementGuid>c04aa917-f21a-4bac-990f-31c0846d27ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-key</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>3a6865de-05ec-444f-a885-e98245a84e02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-group</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>9cedb92c-425c-4e04-850f-f6dc2ab31c0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Matériel</value>
+      <webElementGuid>301e0499-ffe8-4b13-b85d-c91cdc448f40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;typeNat&quot;)/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes deselect active&quot;]/div[@class=&quot;select-dropdown&quot;]/div[@class=&quot;dropdown-inner&quot;]/ul[@class=&quot;dropdown-optgroup&quot;]/li[@class=&quot;dropdown-option selected&quot;]</value>
+      <webElementGuid>0675b336-63e0-45cf-afe8-6ef51c569b9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='typeNat']/div/div/div[2]/div/ul/li</value>
+      <webElementGuid>b0e006a4-df52-4d93-aae4-f4e148fad49d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Matériel'])[2]/following::li[1]</value>
+      <webElementGuid>3bcd9322-7ca2-4432-92cf-e34c5851b46d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::li[1]</value>
+      <webElementGuid>d7c46824-ab5a-4da4-9de2-0383f051150a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/preceding::li[1]</value>
+      <webElementGuid>6bf09bab-a446-4d67-9aa1-e87d59947118</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/ul/li</value>
+      <webElementGuid>43f2ca8d-efc8-48dc-9e35-fa14efbbca10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Matériel' or . = 'Matériel')]</value>
+      <webElementGuid>1f73df44-a068-44a8-ab5e-f846af759b76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

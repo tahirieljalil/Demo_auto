@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Votre login ou mot de passe est incorrect</name>
+   <tag></tag>
+   <elementGuidId>5b76e36a-7a66-42f0-8ce5-a6f681a02e88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='account']/div/div/div/div/div[2]/div/div[3]/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>40043756-3c63-4280-9552-f82293ac2526</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Votre login ou mot de passe est incorrect.</value>
+      <webElementGuid>e1c56304-1f0d-49ca-ba64-44e16ca237c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;account&quot;)/div[@class=&quot;back&quot;]/div[@class=&quot;authentification&quot;]/div[@class=&quot;container ogul&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;log-in&quot;]/div[@class=&quot;text-danger validation-summary-errors&quot;]/ul[1]/li[1]</value>
+      <webElementGuid>538f329c-42d3-4ef1-8cf7-3fa0bb429780</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='account']/div/div/div/div/div[2]/div/div[3]/ul/li</value>
+      <webElementGuid>0be49f01-ff1b-4002-8bcd-78eb80c7078f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connexion'])[1]/following::li[1]</value>
+      <webElementGuid>23ab4d1a-571c-443b-aa0e-b1dd8f449399</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connexion'])[2]/preceding::li[1]</value>
+      <webElementGuid>5bd05724-5985-4763-88a8-7cd02a31432c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mot de passe oublié?'])[1]/preceding::li[1]</value>
+      <webElementGuid>81d711e1-b0bc-472c-aad2-38a50656b712</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Votre login ou mot de passe est incorrect.']/parent::*</value>
+      <webElementGuid>b3a93b94-52e8-4fc0-a065-bc3955e53dc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>cb808c88-7b34-44fa-b824-ca81fa3b4129</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Votre login ou mot de passe est incorrect.' or . = 'Votre login ou mot de passe est incorrect.')]</value>
+      <webElementGuid>f0f1e76d-9a35-4fa8-bc23-5764019d95a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

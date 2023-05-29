@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_code_costa</name>
+   <tag></tag>
+   <elementGuidId>b6d506b8-7963-4e05-850f-36dd92a6d48e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/section/div[1]/div/div/div/div/div[2]/div/form/div/div[5]/div/div[1]/div/div/div[2]/div[2]/div[2]/div/div/div/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.tail-select.no-classes.deselect.active > div.select-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f82b9652-1d52-4ba4-904f-2a85e6f83040</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-label</value>
+      <webElementGuid>96c69b2e-9d53-4921-a5d4-3ae92705de31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sélectionner ...</value>
+      <webElementGuid>0fca95d2-92de-45c4-b15b-1ee33f1d2b9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ZoneTouchees[5d0ded67-0b19-49d3-9a14-59943d7f31e6]codecrestaList&quot;)/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes deselect active&quot;]/div[@class=&quot;select-label&quot;]</value>
+      <webElementGuid>28aa0423-6c01-4f31-9d6c-1acf0dcdd1e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ZoneTouchees[5d0ded67-0b19-49d3-9a14-59943d7f31e6]codecrestaList']/div/div/div/div</value>
+      <webElementGuid>c7633e10-0dbd-40b5-807e-e317617c7917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Code Cresta'])[1]/following::div[3]</value>
+      <webElementGuid>38ba76e8-56d3-4365-b786-98d12c5bf787</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tanant'])[2]/following::div[5]</value>
+      <webElementGuid>3f546823-c8b3-4d13-979e-345a06645bd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MAR_AZI'])[2]/preceding::div[1]</value>
+      <webElementGuid>a63f40b6-4512-49f4-9d59-3fd7609a98c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>fbd1c832-0333-4079-bd7b-4822bcdba735</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sélectionner ...' or . = 'Sélectionner ...')]</value>
+      <webElementGuid>d73ffba6-73d3-4d54-9ea8-b1ce909fc555</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

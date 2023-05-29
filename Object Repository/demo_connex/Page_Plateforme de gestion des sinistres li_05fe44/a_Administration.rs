@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Administration</name>
+   <tag></tag>
+   <elementGuidId>6868f13e-0076-427e-a2f7-b38d58573b10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='jquery-accordion-menu']/ul/li[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(6) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d6067e4a-de91-4db3-bec2-d1c5b40b3eb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>e3885b0f-b9bb-4990-bf6d-e12925f799d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        
+                        Administration
+                    ▾</value>
+      <webElementGuid>8b93a6c3-2216-4e6e-95f8-7bf1fd7f9be8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jquery-accordion-menu&quot;)/ul[1]/li[6]/a[1]</value>
+      <webElementGuid>4fb74d41-4e84-45f0-ad2c-734c4376e89b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='jquery-accordion-menu']/ul/li[6]/a</value>
+      <webElementGuid>e49e9700-62cb-4cf0-8a58-620df116756c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gestion des honoraires'])[1]/following::a[1]</value>
+      <webElementGuid>612bc469-d0ea-4fe3-9f77-18f7253e9764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gestion des recours'])[1]/following::a[2]</value>
+      <webElementGuid>96531f13-71dd-407d-92aa-8fe3e778c5c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gestion des évènements'])[1]/preceding::a[1]</value>
+      <webElementGuid>c9031d93-6790-4654-9f05-bf34f1e9eeb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Administration']/parent::*</value>
+      <webElementGuid>ced33e70-7a6e-4131-8d38-11a99a4bffd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[8]</value>
+      <webElementGuid>a6b95880-ed9c-4065-8c43-946d3bcbd347</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>3634c6ef-b6af-4957-b46e-cd012fdcff8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '
+                        
+                        Administration
+                    ▾' or . = '
+                        
+                        Administration
+                    ▾')]</value>
+      <webElementGuid>aa1edb21-7e29-4bcd-b729-4d0132ca5a32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

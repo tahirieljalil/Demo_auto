@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Bni Mellal-Khnifra</name>
+   <tag></tag>
+   <elementGuidId>be806206-4e33-4902-9653-89625c609f0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tail-select.no-classes.deselect.active > div.select-dropdown > div.dropdown-inner > ul.dropdown-optgroup > li.dropdown-option</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Evenement__Definitives461e5801-ad86-44dd-8123-35b1cf5d2683']/div/div/div/div[2]/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>a845b430-810c-4962-a73c-fe712e40391f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-option</value>
+      <webElementGuid>c6b9ae96-106f-4d7c-99e6-208b6d6d47e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-key</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>cebaa330-0756-4225-b169-6c8290b1f7d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-group</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>2117bc0b-0471-4780-ad66-7ec389d26dc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Béni Mellal-Khénifra</value>
+      <webElementGuid>24f328e3-5367-4a56-9360-e6633cf5d0d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Evenement__Definitives461e5801-ad86-44dd-8123-35b1cf5d2683&quot;)/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes deselect active&quot;]/div[@class=&quot;select-dropdown&quot;]/div[@class=&quot;dropdown-inner&quot;]/ul[@class=&quot;dropdown-optgroup&quot;]/li[@class=&quot;dropdown-option&quot;]</value>
+      <webElementGuid>de784439-dc78-4c3c-9fc9-3e4a8741eb1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Evenement__Definitives461e5801-ad86-44dd-8123-35b1cf5d2683']/div/div/div/div[2]/div/ul/li</value>
+      <webElementGuid>f8cc47e2-b94d-4099-b33d-c67601b63e53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sélectionner ...'])[2]/following::li[1]</value>
+      <webElementGuid>aec3183d-f255-4c22-b8ea-617580053f85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Région'])[2]/following::li[1]</value>
+      <webElementGuid>c1140412-359f-4424-a4f0-c6c3640b662d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drâa-Tafilalet'])[4]/preceding::li[1]</value>
+      <webElementGuid>57803589-48f9-4914-94c3-4f2b9330d6e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eddakhla-Oued Eddahab'])[4]/preceding::li[2]</value>
+      <webElementGuid>cbf30c3f-54a7-4380-b430-8404008ff76f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/div/div/div/div/div/div[2]/div/ul/li</value>
+      <webElementGuid>cb9e318a-ece0-4a60-9f8a-b16b23dc28d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Béni Mellal-Khénifra' or . = 'Béni Mellal-Khénifra')]</value>
+      <webElementGuid>a2bd0b8e-63ab-491f-8059-8304b63f7b8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

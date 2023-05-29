@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Slectionner</name>
+   <tag></tag>
+   <elementGuidId>050d237c-ffa8-46c6-b9bf-e793f6a228eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.select-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pagedContent']/div/div[2]/form/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9df17bdd-b0e4-4313-9eba-0ef78949eb8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-label</value>
+      <webElementGuid>5f05b6e7-b833-4638-9104-ffdac60d26e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sélectionner ...</value>
+      <webElementGuid>eb8f10c9-5241-4016-b930-6ee24791b6cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pagedContent&quot;)/div[@class=&quot;work-space&quot;]/div[@class=&quot;withe-space&quot;]/form[1]/div[@class=&quot;formulaire&quot;]/div[@class=&quot;row mb-4&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes deselect&quot;]/div[@class=&quot;select-label&quot;]</value>
+      <webElementGuid>81920b20-1697-4e18-912f-8f8d75c938c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pagedContent']/div/div[2]/form/div/div/div/div/div/div</value>
+      <webElementGuid>68d55a23-0af3-4441-9ce8-54509d380096</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[3]</value>
+      <webElementGuid>10b1eadd-ef67-43eb-8149-b022c4d751cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test-automo1295'])[2]/preceding::div[2]</value>
+      <webElementGuid>4bac58e5-e12b-447e-b474-0d8c4ec3b5e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div/div/div</value>
+      <webElementGuid>c8806df2-2adf-4898-938b-19a63fb6b6ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sélectionner ...' or . = 'Sélectionner ...')]</value>
+      <webElementGuid>aa02db21-7dcd-4ce4-a656-25b1d2e4fff3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

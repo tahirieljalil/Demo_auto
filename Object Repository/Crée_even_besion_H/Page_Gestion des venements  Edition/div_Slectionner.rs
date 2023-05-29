@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Slectionner</name>
+   <tag></tag>
+   <elementGuidId>fff15c37-3f1f-4747-87d4-781f1fc8fd29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.Administratif-form > div.row.mb-3 > div.col-sm-6 > div.box > div.tail-select.no-classes.deselect > div.select-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ActeAdministratifDiv']/div/div[4]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ed445d1a-479a-46a1-9d06-3b5239f60743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-label</value>
+      <webElementGuid>712fb957-b227-48ce-b3f3-1ef13d3e591e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sélectionner ...</value>
+      <webElementGuid>5542df0d-e769-4954-9a67-bcba50e7ae76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ActeAdministratifDiv&quot;)/div[@class=&quot;Administratif-form&quot;]/div[@class=&quot;row mb-3&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes deselect&quot;]/div[@class=&quot;select-label&quot;]</value>
+      <webElementGuid>0f232332-6147-48ab-9ec4-6b5e49c26ef9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ActeAdministratifDiv']/div/div[4]/div/div/div/div</value>
+      <webElementGuid>044c0721-bc74-4897-bc13-762329fa336f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type du péril'])[2]/following::div[3]</value>
+      <webElementGuid>96ad912e-d947-469a-90d4-4a8debf8fe73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Date de publication de l', &quot;'&quot;, 'acte administratif')])[1]/following::div[5]</value>
+      <webElementGuid>a9cb1c72-3f8d-48a2-8849-d66e06965916</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acte de terrorisme'])[4]/preceding::div[1]</value>
+      <webElementGuid>21f3a9c7-cc27-4ae3-a068-f9ceac297b41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[4]/div/div/div/div</value>
+      <webElementGuid>d4b85b3f-2eb8-4188-b783-b3c4058375bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sélectionner ...' or . = 'Sélectionner ...')]</value>
+      <webElementGuid>f6c873e2-aa76-47ed-97d4-4a6b04c5c4aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

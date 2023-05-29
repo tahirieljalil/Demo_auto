@@ -19,18 +19,34 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
+WebUI.closeBrowser()
+
+WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://catback.eastus.cloudapp.azure.com/Identity/Account/Login?ReturnUrl=%2F')
 
-WebUI.setText(findTestObject('Object Repository/Page_CAT - Authentification/input_Connexion_Input.Login'), username)
+WebUI.setText(findTestObject('Object Repository/demo_connex/Page_CAT - Authentification/input_Connexion_Input.Login'), 'cat@cat.com')
 
-WebUI.setText(findTestObject('Object Repository/Page_CAT - Authentification/input_Connexion_Input.Password'), password)
+WebUI.setEncryptedText(findTestObject('Object Repository/demo_connex/Page_CAT - Authentification/input_Connexion_Input.Password'), 
+    'R7+G68P4LMrw4PaWyLZvYQ==')
 
-WebUI.click(findTestObject('Object Repository/Page_CAT - Authentification/button_Connexion'))
+WebUI.click(findTestObject('Object Repository/demo_connex/Page_CAT - Authentification/button_Connexion'))
 
-WebUI.verifyElementPresent(findTestObject('Page_Plateforme de gestion des sinistres lis aux venements catastrophiques EVCAT/a_Accueil'), 
-    0, FailureHandling.STOP_ON_FAILURE)
+WebUI.rightClick(findTestObject('Object Repository/demo_connex/Page_CAT - Authentification/li_Votre login ou mot de passe est incorrect'))
 
-WebUI.closeBrowser()
+WebUI.setEncryptedText(findTestObject('Object Repository/demo_connex/Page_CAT - Authentification/input_Connexion_Input.Password'), 
+    'tFA8b+TFXdY=')
+
+WebUI.click(findTestObject('Object Repository/demo_connex/Page_CAT - Authentification/button_Connexion'))
+
+WebUI.setText(findTestObject('Object Repository/demo_connex/Page_CAT - Authentification/input_Connexion_Input.Login'), 'cat@cat.ma')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/demo_connex/Page_CAT - Authentification/input_Connexion_Input.Password'), 
+    'R7+G68P4LMrw4PaWyLZvYQ==')
+
+WebUI.click(findTestObject('Object Repository/demo_connex/Page_CAT - Authentification/button_Connexion'))
+
+WebUI.click(findTestObject('Object Repository/demo_connex/Page_Plateforme de gestion des sinistres li_05fe44/a_Administration'))
+
+WebUI.click(findTestObject('Object Repository/demo_connex/Page_Plateforme de gestion des sinistres li_05fe44/a_Gestion des vnements'))
 

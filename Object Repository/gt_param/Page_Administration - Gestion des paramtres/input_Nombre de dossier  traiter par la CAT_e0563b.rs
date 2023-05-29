@@ -6,12 +6,12 @@
    <elementGuidId>95ae09d5-8f85-4608-bdc4-43c20e3cbd2d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[2]/div[2]/div[2]/input</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#Dossiers_e8eea55d-3309-4d1e-8085-9dda9fbb45c6__NumberDossier</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div[2]/div[2]/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>01dafd89-6213-40f0-9923-1018d98b089c</webElementGuid>
+      <webElementGuid>79084df1-9794-44af-b6af-d38e9b225359</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>8a7b852b-6f33-4112-b8f7-0da7bbb13d92</webElementGuid>
+      <webElementGuid>d2fe9aec-81c6-4e1a-ad74-ce1d126e88a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>8e309e06-b52e-4f5e-a219-46bfefa3e485</webElementGuid>
+      <webElementGuid>a59a2ffc-46f0-4cd4-b923-6225418ba31c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-val-regex</name>
       <type>Main</type>
       <value>Seules les valeurs entières sont autorisées</value>
-      <webElementGuid>439239f1-34d5-43b3-8494-25cc3149635f</webElementGuid>
+      <webElementGuid>0c0b2243-f8ba-417f-986b-d1156537a1ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-val-regex-pattern</name>
       <type>Main</type>
       <value>[0-9]+</value>
-      <webElementGuid>89c9e47c-5134-472d-a9e3-d3907e5a2799</webElementGuid>
+      <webElementGuid>f94f333c-70b8-41bf-a109-9872f78e4001</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>Veuillez insérer un nombre de dossier</value>
-      <webElementGuid>e474bcaf-de00-4655-aedb-7cf407f012d7</webElementGuid>
+      <webElementGuid>69f3e865-62a2-4aad-b579-2ebebd4739ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>id</name>
       <type>Main</type>
       <value>Dossiers_e8eea55d-3309-4d1e-8085-9dda9fbb45c6__NumberDossier</value>
-      <webElementGuid>a894c7e5-4ea1-4449-b28b-0a32d055632e</webElementGuid>
+      <webElementGuid>a993d284-0c5e-4d45-ba52-c6c4d713e357</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Dossiers[e8eea55d-3309-4d1e-8085-9dda9fbb45c6].NumberDossier</value>
-      <webElementGuid>73337ef8-8f16-4ef9-8933-1e4fed94f37e</webElementGuid>
+      <webElementGuid>5172dee3-c246-46be-81a8-5b1a89fae52f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Dossiers_e8eea55d-3309-4d1e-8085-9dda9fbb45c6__NumberDossier&quot;)</value>
-      <webElementGuid>03e9249a-fad4-4bf0-971a-55153b60e3a1</webElementGuid>
+      <webElementGuid>2b884a93-70a9-4c91-bea0-491f42152cd8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='Dossiers_e8eea55d-3309-4d1e-8085-9dda9fbb45c6__NumberDossier']</value>
-      <webElementGuid>811a8043-6faf-4cf3-a0ca-8330b5cdf838</webElementGuid>
+      <webElementGuid>e284e396-a969-4663-a503-6e83d838d9f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='e8eea55d-3309-4d1e-8085-9dda9fbb45c6']/div[2]/div[2]/div[2]/input</value>
-      <webElementGuid>2f1d5bb0-6df0-4779-9cc0-e629bc197140</webElementGuid>
+      <webElementGuid>0f0c6c8f-a673-4b88-a66e-2fe34bf3a49a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div[2]/input</value>
-      <webElementGuid>95da77fd-5975-49dc-b616-a3741c32e7fe</webElementGuid>
+      <webElementGuid>598a8604-5395-4c13-89df-acee38e156ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'Dossiers_e8eea55d-3309-4d1e-8085-9dda9fbb45c6__NumberDossier' and @name = 'Dossiers[e8eea55d-3309-4d1e-8085-9dda9fbb45c6].NumberDossier']</value>
-      <webElementGuid>1dd85627-4286-4eaa-b918-31150469ab2e</webElementGuid>
+      <webElementGuid>09f9281a-943c-4283-86c8-fc8efefa0c43</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

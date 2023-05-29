@@ -16,7 +16,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import org.apache.commons.lang3.RandomStringUtils
+import org.apache.commons.lang3.RandomStringUtils as RandomStringUtils
 
 WebUI.openBrowser('')
 
@@ -40,20 +40,10 @@ WebUI.click(findTestObject('Object Repository/Admin_new_avocat/Page_Plateforme d
 
 WebUI.click(findTestObject('Object Repository/Admin_new_avocat/Page_Administration - Gestion des avocats/a_Ajouter un avocat conseil'))
 
-def generateRandomName() {
-	return RandomStringUtils.randomAlphabetic(5).capitalize()
-}
-
-def generateRandomLastName() {
-	return RandomStringUtils.randomAlphabetic(8).capitalize()
-}
-
-def generateRandomEmail(name, lastName) {
-	return "$name.$lastName@randommail.com".toLowerCase()
-}
-
 String name = generateRandomName()
+
 String lastName = generateRandomLastName()
+
 String email = generateRandomEmail(name, lastName)
 
 WebUI.setText(findTestObject('Object Repository/Admin_new_avocat/Page_Gestion des avocats  Cration/input__Nom'), name)
@@ -62,12 +52,11 @@ WebUI.setText(findTestObject('Object Repository/Admin_new_avocat/Page_Gestion de
 
 WebUI.setText(findTestObject('Object Repository/Admin_new_avocat/Page_Gestion des avocats  Cration/input__Email'), email)
 
-String inputValue = WebUI.getAttribute(findTestObject('Object Repository/Admin_new_avocat/Page_Gestion des avocats  Cration/input__Email'), 'value', FailureHandling.CONTINUE_ON_FAILURE)
+String inputValue = WebUI.getAttribute(findTestObject('Object Repository/Admin_new_avocat/Page_Gestion des avocats  Cration/input__Email'), 
+    'value', FailureHandling.CONTINUE_ON_FAILURE)
 
 //WebUI.setText(findTestObject('Object Repository/Admin_new_avocat/Page_Gestion des avocats  Cration/input__Nom'), 'zineb')
-
 //WebUI.setText(findTestObject('Object Repository/Admin_new_avocat/Page_Gestion des avocats  Cration/input__Prenom'), 'tnhari')
-
 WebUI.setText(findTestObject('Object Repository/Admin_new_avocat/Page_Gestion des avocats  Cration/input__GSM'), '0644332255')
 
 WebUI.click(findTestObject('Object Repository/Admin_new_avocat/Page_Gestion des avocats  Cration/span_Slectionner'))
@@ -79,9 +68,8 @@ WebUI.setText(findTestObject('Object Repository/Admin_new_avocat/Page_Gestion de
 WebUI.setText(findTestObject('Object Repository/Admin_new_avocat/Page_Gestion des avocats  Cration/input__RaisonSociale'), 
     'XXX')
 
-'à change'
 //WebUI.setText(findTestObject('Object Repository/Admin_new_avocat/Page_Gestion des avocats  Cration/input__Email'), 'zineb@tnhari.ma')
-
+'à change'
 WebUI.selectOptionByValue(findTestObject('Object Repository/Admin_new_avocat/Page_Gestion des avocats  Cration/select_Slectionner                         _c50728'), 
     '0', true)
 
@@ -107,7 +95,6 @@ WebUI.scrollToElement(findTestObject('Object Repository/Admin_new_avocat/Page_Ge
 
 WebUI.click(findTestObject('Object Repository/Admin_new_avocat/Page_Gestion des avocats  Cration/button_Enregistrer'))
 
-'à change'
 WebUI.setText(findTestObject('Object Repository/Admin_new_avocat/Page_Administration - Gestion des avocats/input_Lignes par page_MotCle'), 
     inputValue)
 
@@ -118,4 +105,15 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Admin_new_avocat/Pa
     0)
 
 WebUI.closeBrowser()
+
+def generateRandomName() {
+    return RandomStringUtils.randomAlphabetic(5).capitalize()
+}
+
+def generateRandomLastName() {
+    return RandomStringUtils.randomAlphabetic(8).capitalize()
+}
+
+def generateRandomEmail(def name, def lastName) {
+}
 

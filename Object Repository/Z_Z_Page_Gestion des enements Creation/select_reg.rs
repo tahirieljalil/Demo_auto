@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_reg</name>
+   <tag></tag>
+   <elementGuidId>cf0f6daf-469d-41ab-a835-d7dc9883f354</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#e71779c4-7b5b-4722-91a2-92e9b3abc947 > div.col-sm-6 > div.box > div.tail-select.no-classes.deselect > div.select-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/section/div[1]/div/div/div/div/div[2]/div/form/div/div[5]/div/div[1]/div/div/div[1]/div/div/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c83e9eea-99da-4939-80c5-135aa52cd729</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-label</value>
+      <webElementGuid>3ec20056-fd6e-4b1b-a960-5da4bb64e120</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sélectionner ...</value>
+      <webElementGuid>505225d3-4532-47ae-8c67-fd0b568b91d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;e71779c4-7b5b-4722-91a2-92e9b3abc947&quot;)/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes deselect&quot;]/div[@class=&quot;select-label&quot;]</value>
+      <webElementGuid>fe2c7b1c-d1a9-47f6-91df-c0e52992d60f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='e71779c4-7b5b-4722-91a2-92e9b3abc947']/div/div/div/div</value>
+      <webElementGuid>cb196831-c7dd-4cdc-bd56-5b020b9b7262</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Région'])[1]/following::div[3]</value>
+      <webElementGuid>22aaa6e5-03bd-415c-adba-02ae4d90faba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zones touchées provisoires:'])[1]/following::div[8]</value>
+      <webElementGuid>68a01f18-e3ab-435d-802b-a245186279f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Béni Mellal-Khénifra'])[2]/preceding::div[1]</value>
+      <webElementGuid>3753bbf4-00b2-4714-8e22-fe4aa8ec6f38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>f5974661-a095-47c1-acc1-6664fa1835a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sélectionner ...' or . = 'Sélectionner ...')]</value>
+      <webElementGuid>6f205fd2-066b-4e16-96b8-329db229de31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

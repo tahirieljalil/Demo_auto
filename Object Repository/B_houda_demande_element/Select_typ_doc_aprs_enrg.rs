@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select_typ_doc_aprs_enrg</name>
+   <tag></tag>
+   <elementGuidId>f90e124b-2d60-4769-907f-e3bf6f658acf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='formSinistre']/div[2]/div/div[3]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.Demendeur-form > div.row.mb-3 > div.col-sm-6 > div.box > div.tail-select.no-classes.deselect > div.select-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8fc93718-a530-4ea8-9edb-86f780b6ea35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-label</value>
+      <webElementGuid>0b4ddbf2-c989-40a2-a4a3-9ff02d4fac35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sélectionner ...</value>
+      <webElementGuid>c9d4a085-2a5c-487a-bca4-104c2687562c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formSinistre&quot;)/div[@class=&quot;formulaire&quot;]/div[@class=&quot;Demendeur-form&quot;]/div[@class=&quot;row mb-3&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes deselect&quot;]/div[@class=&quot;select-label&quot;]</value>
+      <webElementGuid>bedd9035-61f1-4ff1-94eb-09684ebc0f66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='formSinistre']/div[2]/div/div[3]/div/div/div/div</value>
+      <webElementGuid>734c762a-0d2c-44f4-867f-f03175f40fe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[17]/following::div[3]</value>
+      <webElementGuid>ac4f7af7-bf38-4146-bca5-af34ba98eca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CNIE'])[2]/preceding::div[1]</value>
+      <webElementGuid>857cc4be-5938-47e1-bbc9-865776019696</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div/div/div/div</value>
+      <webElementGuid>1d774b2e-5dba-4579-86a1-62726440a55f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sélectionner ...' or . = 'Sélectionner ...')]</value>
+      <webElementGuid>4634adfe-32ba-499a-baf2-498925156902</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

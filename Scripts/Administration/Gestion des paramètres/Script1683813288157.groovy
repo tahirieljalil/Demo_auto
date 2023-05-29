@@ -42,13 +42,19 @@ WebUI.click(findTestObject('Object Repository/gt_param/Page_Administration - Ges
 
 WebUI.click(findTestObject('Object Repository/gt_param/Page_Administration - Gestion des paramtres/li_Vhicule'))
 
+int RN = ((Math.random() * 10) as int)
+
+
 WebUI.setText(findTestObject('Object Repository/gt_param/Page_Administration - Gestion des paramtres/input_Nombre de dossier  traiter par la CAT_e0563b'), 
-    '77')
+    '1'+RN)
+
+String inputValue = WebUI.getAttribute(findTestObject('Object Repository/gt_param/Page_Administration - Gestion des paramtres/input_Nombre de dossier  traiter par la CAT_e0563b'), 
+    'value', FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/gt_param/Page_Administration - Gestion des paramtres/button_Enregistrer'))
 
 WebUI.setText(findTestObject('Object Repository/gt_param/Page_Administration - Gestion des paramtres/input_Lignes par page_searchString'), 
-    '77')
+   inputValue)
 
 WebUI.verifyElementText(findTestObject('Object Repository/gt_param/Page_Administration - Gestion des paramtres/div_Vos modifications ont t enregistres avec succs'), 
     'Vos modifications ont été enregistrées avec succès')

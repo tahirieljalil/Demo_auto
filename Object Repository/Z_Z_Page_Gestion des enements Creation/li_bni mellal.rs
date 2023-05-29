@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_bni mellal</name>
+   <tag></tag>
+   <elementGuidId>1620695c-26b7-4c82-8d58-ee798e5a0846</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ZoneTouchees[e71779c4-7b5b-4722-91a2-92e9b3abc947]communeList']/div/div/div/div[2]/div/ul/li[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>44bf84e3-7eb7-4d11-bd69-36c69b18fd67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-option</value>
+      <webElementGuid>ad3432bf-0401-4f09-8c2b-11c82d37160d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-key</name>
+      <type>Main</type>
+      <value>244</value>
+      <webElementGuid>bb9f43ff-7d6f-47a2-941f-e5e3939b416b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-group</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>0ea86c6f-ea1c-4eaa-9dc6-7584844173be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>béni mellal</value>
+      <webElementGuid>dd9d7cc8-2c31-47e4-9aa7-177e7e4fb608</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ZoneTouchees[e71779c4-7b5b-4722-91a2-92e9b3abc947]communeList&quot;)/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes deselect open-top active&quot;]/div[@class=&quot;select-dropdown&quot;]/div[@class=&quot;dropdown-inner&quot;]/ul[@class=&quot;dropdown-optgroup&quot;]/li[@class=&quot;dropdown-option&quot;]</value>
+      <webElementGuid>ec45f0b2-e9a5-48e3-b737-d4c50b731dc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ZoneTouchees[e71779c4-7b5b-4722-91a2-92e9b3abc947]communeList']/div/div/div/div[2]/div/ul/li[3]</value>
+      <webElementGuid>7202c7ff-7045-4526-978f-2f0ebe42a88e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ait oum el bekht'])[2]/following::li[1]</value>
+      <webElementGuid>b167d8ae-8a36-437f-af12-941844ef062e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='aghbala'])[2]/following::li[2]</value>
+      <webElementGuid>5f56e8db-81a1-458a-a3e6-2228d2d8b3f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='guettaya'])[2]/preceding::li[1]</value>
+      <webElementGuid>9a69501b-22b8-4971-8571-e30f3f3b7c99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='el ksiba'])[2]/preceding::li[2]</value>
+      <webElementGuid>87971888-fef9-4b6c-aad3-10ecca71d33a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div[2]/div/ul/li[3]</value>
+      <webElementGuid>2521c0ca-eb6f-4bf7-a401-248a6bae2c15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'béni mellal' or . = 'béni mellal')]</value>
+      <webElementGuid>1f228213-9ae5-46ad-b2e0-9aa3ba4bb223</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Parcourir</name>
+   <tag></tag>
+   <elementGuidId>0b6bfa31-d624-435b-b611-3b646d34ee57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.multi-Upload</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='formSinistre']/div[5]/div/div[2]/div/label[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6a3c3098-5482-4735-9195-aa18de85fe02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multi-Upload</value>
+      <webElementGuid>4362a702-aadf-43aa-b2d5-7dde0351cba8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Parcourir </value>
+      <webElementGuid>de015475-d191-480d-99b6-f843577538a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formSinistre&quot;)/div[@class=&quot;formulaire&quot;]/div[@class=&quot;documents-form&quot;]/div[@class=&quot;row mb-3&quot;]/div[@class=&quot;col-sm-12&quot;]/label[@class=&quot;multi-Upload&quot;]</value>
+      <webElementGuid>5dbeba31-1e81-443d-ad8f-655d6b4e84ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='formSinistre']/div[5]/div/div[2]/div/label[2]</value>
+      <webElementGuid>64262d92-6b54-48c5-902a-1cbaaad7b2a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Autres'])[1]/following::label[1]</value>
+      <webElementGuid>10a08607-de73-4160-b5e3-db93ba40f1c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parcourir'])[1]/following::label[2]</value>
+      <webElementGuid>64c97be2-122e-4920-9aaf-16edbcc71872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Les fichiers selectionnés'])[1]/preceding::label[1]</value>
+      <webElementGuid>dec9d1a1-709d-49ae-b177-b004ac1d89b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enregistrer le brouillon'])[1]/preceding::label[1]</value>
+      <webElementGuid>23137aff-acfd-407e-b4ac-9df031a3b1d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label[2]</value>
+      <webElementGuid>a6d1008d-a483-4cad-bb73-2368100c1eb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '  Parcourir ' or . = '  Parcourir ')]</value>
+      <webElementGuid>eb661b7e-c869-4512-a5fc-d6fc33607e51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>First_element</name>
+   <tag></tag>
+   <elementGuidId>b13ee08c-4a1e-47f8-bbe3-e561fd2b6a27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tail-select.no-classes.deselect.active > div.select-dropdown > div.dropdown-inner > ul.dropdown-optgroup > li.dropdown-option</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/section/div[1]/div/div/div/div/div[2]/div/form/div/div[6]/div/div[1]/div/div/div[3]/div/div/div[2]/div[2]/ul/li[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>970c1e39-3fde-4a9e-a1f0-3c1d0467e762</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-option</value>
+      <webElementGuid>6f471501-b0aa-48e8-bbc3-87dff502e485</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-key</name>
+      <type>Main</type>
+      <value>31</value>
+      <webElementGuid>994d305c-9719-4338-8074-a32e624becfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-group</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>3811b965-6bde-458a-8eda-a8431b25eafc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BENI MELLAL</value>
+      <webElementGuid>75ff0404-37ca-4655-b6a3-28fcfe4188ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ZoneTouchees_Definitives[c093a591-c3c5-4fbd-8515-317d7be8640f]villeList&quot;)/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes deselect active&quot;]/div[@class=&quot;select-dropdown&quot;]/div[@class=&quot;dropdown-inner&quot;]/ul[@class=&quot;dropdown-optgroup&quot;]/li[@class=&quot;dropdown-option&quot;]</value>
+      <webElementGuid>f7968ce5-612f-43c0-a020-2a1bc37ca0d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ZoneTouchees_Definitives[c093a591-c3c5-4fbd-8515-317d7be8640f]villeList']/div/div/div[2]/div[2]/ul/li</value>
+      <webElementGuid>15f9b3d3-380a-4528-96c2-9e3f4c232e6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sélectionner ...'])[6]/following::li[1]</value>
+      <webElementGuid>e3daf870-fc14-49ef-a3cd-bff632ca70d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ville'])[2]/following::li[1]</value>
+      <webElementGuid>0f5c27ee-98d4-40ab-ae68-e45059ff8f57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Autre Adresse'])[2]/preceding::li[1]</value>
+      <webElementGuid>1835df25-b228-4887-8f8f-a54e479dbb7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div[3]/div/div/div[2]/div[2]/ul/li</value>
+      <webElementGuid>744f8115-580b-4d8b-acaf-f831b77346c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'BENI MELLAL' or . = 'BENI MELLAL')]</value>
+      <webElementGuid>b8368760-295d-42da-85ed-40a7c1051f75</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

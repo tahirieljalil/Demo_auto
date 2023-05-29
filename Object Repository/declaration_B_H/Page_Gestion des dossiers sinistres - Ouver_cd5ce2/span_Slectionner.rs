@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Slectionner</name>
+   <tag></tag>
+   <elementGuidId>17062917-d3ac-4b23-95db-678328964712</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#formatImm > div.box > div.tail-select.no-classes.deselect > div.select-label > span.label-inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='formatImm']/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0cb294b6-b63f-446a-a9fb-e64ae21b5d75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-inner</value>
+      <webElementGuid>5a4c82a9-917e-4545-8405-1fc1399ffe86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sélectionner ...</value>
+      <webElementGuid>4003c298-6e89-46a5-b0ba-d4ee2ffe2d0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formatImm&quot;)/div[@class=&quot;box&quot;]/div[@class=&quot;tail-select no-classes deselect&quot;]/div[@class=&quot;select-label&quot;]/span[@class=&quot;label-inner&quot;]</value>
+      <webElementGuid>0e405b97-e79e-494e-bc06-426a231745de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='formatImm']/div/div/div/span</value>
+      <webElementGuid>4e736fac-cad7-44c7-94e7-9b47c0818267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/following::span[1]</value>
+      <webElementGuid>2b4dc0a4-c285-4bbe-aab2-493781023687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Arabe'])[2]/preceding::span[1]</value>
+      <webElementGuid>5e45c6ce-4f01-46a0-a661-dba9e379162b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Normal'])[2]/preceding::span[1]</value>
+      <webElementGuid>60ac05a7-458f-468c-9833-a6429468ea76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/span</value>
+      <webElementGuid>f7fd7b81-b0e7-4b35-82ee-f0685490f19d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sélectionner ...' or . = 'Sélectionner ...')]</value>
+      <webElementGuid>cf1d426c-f4c4-4935-8277-0cd5829a8e47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

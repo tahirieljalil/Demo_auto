@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_commune</name>
+   <tag></tag>
+   <elementGuidId>f4b5ea69-f98a-4783-afa6-472c3ecf05a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tail-select.geo-read-commune.deselect.open-top.active > div.select-label > span.label-inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='communesDdp']/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8f4ede8d-36b3-438f-9fcd-1f765283c929</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-inner</value>
+      <webElementGuid>a53caacc-a3d4-4d65-b44e-a8b0a3baa043</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>laqsabi tagoust</value>
+      <webElementGuid>dcd14b06-955d-47c2-8d69-f12dd8ea22e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;communesDdp&quot;)/div[@class=&quot;tail-select geo-read-commune deselect open-top active&quot;]/div[@class=&quot;select-label&quot;]/span[@class=&quot;label-inner&quot;]</value>
+      <webElementGuid>306e7a89-128b-4c55-8b1e-d1163a714ec7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='communesDdp']/div/div/span</value>
+      <webElementGuid>d27ad339-c4c5-40bf-8f1e-c1a6e984c8b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[12]/following::span[1]</value>
+      <webElementGuid>9057b6e3-d30a-4591-a18f-081a94791cd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='laqsabi tagoust'])[3]/preceding::span[1]</value>
+      <webElementGuid>b4dd56ec-4f0a-484c-8f52-5407e92eb03d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rass oumlil'])[2]/preceding::span[1]</value>
+      <webElementGuid>41e2df3f-766a-4921-a53d-48b8cb46d2c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/div/div/div/div/span</value>
+      <webElementGuid>b1cce012-ab49-4506-a5b7-e3f921f51c4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'laqsabi tagoust' or . = 'laqsabi tagoust')]</value>
+      <webElementGuid>c2386dc3-3b92-48e9-9438-3bf669ab0014</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

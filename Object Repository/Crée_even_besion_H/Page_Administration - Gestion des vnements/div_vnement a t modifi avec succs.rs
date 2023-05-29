@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_vnement a t modifi avec succs</name>
+   <tag></tag>
+   <elementGuidId>250f987e-2fdf-45b9-85b5-cdcddae10e64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.toast.toast-success</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toast-container']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>58b553bb-c10d-4d31-be40-82f5e2fe9e5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toast toast-success</value>
+      <webElementGuid>32ab6811-a8bd-4b42-bf1f-5cd706d3fbfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>polite</value>
+      <webElementGuid>4aa7182f-a41c-4c46-9950-dda283ac4fc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Évènement a été modifié avec succès</value>
+      <webElementGuid>bea38bdd-644d-4e16-b05d-c49e0837dc7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toast-container&quot;)/div[@class=&quot;toast toast-success&quot;]</value>
+      <webElementGuid>5f2ab87a-05ce-44a1-aaff-da728366fac6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toast-container']/div</value>
+      <webElementGuid>dfd2a0f7-5f3e-4e13-bf9f-8682862faf5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2023 All Rights Reserved.'])[1]/following::div[2]</value>
+      <webElementGuid>4793493c-b4a2-4f2d-af49-f332025ff2ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='www.cat.co.ma'])[1]/following::div[3]</value>
+      <webElementGuid>8a8c811d-2e6f-4ac7-b5c3-c7eb9fae5e8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'toast-container', '&quot;', ')/div[@class=', '&quot;', 'toast toast-success', '&quot;', ']')])[1]/preceding::div[2]</value>
+      <webElementGuid>f64adfbc-4912-436e-9ca0-3a4f38d3576a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div</value>
+      <webElementGuid>6921d9e6-5168-4346-95b6-2e05f4e1a7b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Évènement a été modifié avec succès' or . = 'Évènement a été modifié avec succès')]</value>
+      <webElementGuid>6f930254-f60e-4d49-9572-bd5b0f93566d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

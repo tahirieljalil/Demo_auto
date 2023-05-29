@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Parcourir</name>
+   <tag></tag>
+   <elementGuidId>7bb60db0-c9c5-4070-aab3-4d1d1e7243cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.multi-Upload</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PieceJointeDiv']/div/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>597b9766-3d04-4af7-99d2-75f5a1801734</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multi-Upload</value>
+      <webElementGuid>1176c525-e73b-45f1-9e39-fe9b1572ee5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Parcourir </value>
+      <webElementGuid>ad1ca294-4f86-4662-b3eb-4412b148e9cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PieceJointeDiv&quot;)/div[@class=&quot;PieceJointe-form&quot;]/div[@class=&quot;row mb-3&quot;]/div[@class=&quot;col-sm-12&quot;]/label[@class=&quot;multi-Upload&quot;]</value>
+      <webElementGuid>eed7f343-6a76-4f07-b39a-e188776c2211</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PieceJointeDiv']/div/div/div/label</value>
+      <webElementGuid>c7936487-2280-4de1-bfc9-a5a357bfdaba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pièces jointes :'])[1]/following::label[1]</value>
+      <webElementGuid>f4460528-6aa8-4e68-b5cf-3fa8e5760a23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajouter une zone touchée'])[2]/following::label[1]</value>
+      <webElementGuid>421eba3c-ed71-4df6-9ec0-f84ab807344b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Les fichiers selectionnés'])[1]/preceding::label[1]</value>
+      <webElementGuid>931eefbe-b651-4fa2-a503-01d48cdf75a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enregistrer'])[1]/preceding::label[1]</value>
+      <webElementGuid>523bfe06-8f7c-4566-8596-816e3fa9e981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Parcourir']/parent::*</value>
+      <webElementGuid>bfe2489b-3a4f-4f75-bf47-866001b0d0c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/label</value>
+      <webElementGuid>dedc0a0c-6ab6-4999-9940-5326a17484ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '  Parcourir ' or . = '  Parcourir ')]</value>
+      <webElementGuid>475c8612-3ada-40ea-b713-ca479bd54888</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

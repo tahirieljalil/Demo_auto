@@ -15,7 +15,7 @@
       <guid>ce0007b8-9c96-4c2b-8f42-5b23d28de39b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Administration/Création évènements</testCaseId>
+      <testCaseId>Test Cases/Administration/Création dossier sinisters</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

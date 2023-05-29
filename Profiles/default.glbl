@@ -4,4 +4,34 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>captureValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>Police</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>i_fiscal</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>tireF</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>attestion</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>matricule</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

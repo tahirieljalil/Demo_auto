@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_laqsabi tagoust</name>
+   <tag></tag>
+   <elementGuidId>fd110521-d3e5-456a-87e9-c1f2183a302e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tail-select.geo-read-commune.deselect.open-top.active > div.select-dropdown > div.dropdown-inner > ul.dropdown-optgroup > li.dropdown-option</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='communesDdp']/div/div[2]/div[2]/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>6a62da88-f004-4cb7-b1f7-053275355ab4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-option</value>
+      <webElementGuid>79e59ab6-60da-49f6-9265-359e763aae9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-key</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>b47dd28f-4d34-45ce-b2df-c006c3e8a3d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-group</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>e4b6bee1-1bd7-4b94-8deb-541ed2abcd1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>laqsabi tagoust</value>
+      <webElementGuid>b534097f-f9e3-4e48-8181-77da7f3b3932</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;communesDdp&quot;)/div[@class=&quot;tail-select geo-read-commune deselect open-top active&quot;]/div[@class=&quot;select-dropdown&quot;]/div[@class=&quot;dropdown-inner&quot;]/ul[@class=&quot;dropdown-optgroup&quot;]/li[@class=&quot;dropdown-option&quot;]</value>
+      <webElementGuid>61805486-b385-4e48-a3d5-df5b907637fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='communesDdp']/div/div[2]/div[2]/ul/li</value>
+      <webElementGuid>6fc2d448-27f7-413b-89d5-ee4b536620de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sélectionner ...'])[1]/following::li[1]</value>
+      <webElementGuid>b98bae74-2287-4909-abb4-46de3ba1e5fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[12]/following::li[1]</value>
+      <webElementGuid>7df5fd04-8d33-43e5-80cd-8d6feb4b1d27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rass oumlil'])[2]/preceding::li[1]</value>
+      <webElementGuid>f15ed84b-0345-48c7-b529-de74071352f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sidi ahmed laaroussi'])[2]/preceding::li[2]</value>
+      <webElementGuid>9029470e-416c-4960-a576-d235c6b272e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div[2]/ul/li</value>
+      <webElementGuid>4bb37fb4-03a0-47bf-86d0-3776910a5170</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'laqsabi tagoust' or . = 'laqsabi tagoust')]</value>
+      <webElementGuid>b647d23a-a2e9-4304-880e-0eed53b8ccf8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

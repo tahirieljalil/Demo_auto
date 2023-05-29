@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_</name>
+   <tag></tag>
+   <elementGuidId>ac2f4e29-1089-482f-8bc8-cad6febf1620</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.close > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='DoDemande']/div/div/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>758caba8-0db9-49b8-bbd3-8b5cae53ccc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>74b92385-e699-4b98-a7b3-e95bfd630042</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×</value>
+      <webElementGuid>b1cfd1c0-c54e-4a81-a03f-48fcdc4bb323</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DoDemande&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;modal-dialog modal-os&quot;]/div[@class=&quot;modal-content&quot;]/a[@class=&quot;close&quot;]/span[1]</value>
+      <webElementGuid>5d8cc923-b982-4d31-8dd8-34d50cfdfcfb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='DoDemande']/div/div/div/a/span</value>
+      <webElementGuid>e021d108-9b1e-4a2a-8e5a-dfdb40bdaef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[1]/following::span[1]</value>
+      <webElementGuid>3e711f7a-405e-426e-9e14-14328bce0c41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Professions libérales/TPE'])[1]/following::span[2]</value>
+      <webElementGuid>4026c5bf-d5c5-4095-b842-6313d65b0763</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Veuillez tout d', &quot;'&quot;, 'abord créer une déclaration.')])[1]/preceding::span[1]</value>
+      <webElementGuid>d95ce3f5-dd7c-4109-96ab-2ede4bcd0e72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='×']/parent::*</value>
+      <webElementGuid>d558a4f9-9def-402f-b370-69875c239353</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/span</value>
+      <webElementGuid>d60a446e-46de-460f-94bc-77be47933d32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '×' or . = '×')]</value>
+      <webElementGuid>ffdb1ecf-c9ae-4099-af04-bc9a56fb1b18</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

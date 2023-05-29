@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Lvnement a t cr avec succs sous la rfre_2e703e</name>
+   <tag></tag>
+   <elementGuidId>4752bf1a-d175-4d4c-90aa-85faf745d628</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.toast.toast-success</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toast-container']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1508d265-6897-4a0c-9b7f-711aea1bfadc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toast toast-success</value>
+      <webElementGuid>88b8bb36-d8fe-4735-b71e-2baebf0e8a3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>polite</value>
+      <webElementGuid>e772eb82-97d5-4d70-98f8-45ad8e9091dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>L’événement a été créé avec succès sous la référence P.2023.05.12.IND</value>
+      <webElementGuid>4ffa32a3-b253-458a-b49f-e87ddd7f1abd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toast-container&quot;)/div[@class=&quot;toast toast-success&quot;]</value>
+      <webElementGuid>f5c300f3-9657-41e2-a173-781f4e75e868</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toast-container']/div</value>
+      <webElementGuid>0390917b-cafe-483e-bf7a-df33bf7c4499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2023 All Rights Reserved.'])[1]/following::div[2]</value>
+      <webElementGuid>6efe3a23-ce23-42e1-9454-ac623313fcd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='www.cat.co.ma'])[1]/following::div[3]</value>
+      <webElementGuid>d57393b4-296a-4da8-9dce-20b51848c5ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'toast-container', '&quot;', ')/div[@class=', '&quot;', 'toast toast-success', '&quot;', ']')])[1]/preceding::div[2]</value>
+      <webElementGuid>0bcadac6-6a78-43e5-aa3b-e664fecd30e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div</value>
+      <webElementGuid>85064b8f-8bd3-46a6-8aa7-9f0799fb91f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'L’événement a été créé avec succès sous la référence P.2023.05.12.IND' or . = 'L’événement a été créé avec succès sous la référence P.2023.05.12.IND')]</value>
+      <webElementGuid>b95b7090-25eb-4659-944b-0eff6dd64bbd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
